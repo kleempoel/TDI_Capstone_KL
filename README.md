@@ -13,7 +13,7 @@ The project uses Machine Learning to predict
 - 1. The Predisposition to genetic diseases in humans using a simulated dataset
 - 2. Local adaptation of livestock using Cattle genetic data from Uganda
 
-The project is described in detail [here](Explanation)
+The project is described in detail [here](Explanation.ipynb)
 
 
 ## Scripts
