@@ -17,7 +17,7 @@ The project is described in detail [here](Explanation)
 
 
 ## Scripts
-- Scripts can be found in `Scripts/` or directly through the [Project Description page](https://github.com/kleempoel/TDI_Milestone_KL/Explanation).
+- Scripts can be found in `Scripts/` or directly through the [Project Description page](https://github.com/kleempoel/TDI_Milestone_KL/Explanation.html).
 
 ## Data
-- Datasets for human simulations and Ugandan Cattle can be found in `Data/` and `UGBT/`
+- Datasets for human simulations and Ugandan Cattle can be found in `Data/` and `UGBT/` respectively
