@@ -1,0 +1,814 @@
+Sample,ACCESSION,TAXID,SCIENTIFIC_NAME,COUNTRY,CLOSEST_CITY,CLOSEST_LOCALITY,ESTIMATED_AGE,LONGITUDE,BREED,LATITUDE,GENDER,SAMPLING_DATE
+UGBT-B10-0235,ERS420433,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,24 months,29.98299,Nkiga,-1.41958,male,2011-06-28
+UGBT-B9-0245,ERS420469,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,48 months,30.00819,Ankole,-0.91676,male,2011-06-29
+UGBT-C10-0212,ERS420485,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,24 months,30.22658,Nkiga,-1.22172,male,2011-06-27
+UGBT-C6-0730,ERS420500,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,48 months,30.23459,East African Shorthorn Zebu,0.86187,male,2012-01-04
+UGBT-C6-0731,ERS420501,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,60 months,30.23459,East African Shorthorn Zebu,0.86187,male,2012-01-04
+UGBT-C6-0732,ERS420502,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,72 months,30.23459,East African Shorthorn Zebu,0.86187,male,2012-01-04
+UGBT-C9-0005,ERS420553,30523,Bos taurus x Bos indicus,Uganda,,,,30.515217,Ankole,-0.527,male,2011-03-10
+UGBT-C9-0147,ERS420560,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,,30.62749,Ankole,-0.5269,female,2011-06-07
+UGBT-D6-0701,ERS239066,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,36 months,31.30129,Ankole,0.97391,male,2012-01-04
+UGBT-D6-0706,ERS420631,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,72 months,31.23101,Small East African Zebu,1.00349,male,2012-01-04
+UGBT-E3-0350,ERS420727,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,96 months,31.73258,Shorthorn Zebu,3.14143,male,2011-07-12
+UGBT-E3-0353,ERS420730,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,36 months,31.73258,Shorthorn Zebu,3.14143,male,2011-07-12
+UGBT-E3-0357,ERS420734,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,48 months,31.7562,Shorthorn Zebu,3.16741,male,2011-07-12
+UGBT-E5-0677,ERS239075,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,12 months,31.79751,Ankole,1.66295,male,2012-01-03
+UGBT-E5-0678,ERS420762,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,12 months,31.79751,Small East African Zebu,1.66295,male,2012-01-03
+UGBT-E5-0679,ERS420763,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,12 months,31.79751,Ankole,1.66295,male,2012-01-03
+UGBT-E5-0681,ERS420765,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,24 months,31.70617,Ankole,1.65583,male,2012-01-03
+UGBT-E5-0684,ERS420768,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,18 months,31.70617,Ankole,1.65583,male,2012-01-03
+UGBT-E5-0685,ERS420769,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,24 months,31.70617,Ankole,1.65583,male,2012-01-03
+UGBT-E6-0724,ERS420778,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KYANKWANZI,60 months,31.74691,Shorthorn Zebu,0.80434,male,2012-01-04
+UGBT-E7-0772,ERS420795,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,48 months,31.90779,Ankole,0.39083,male,2012-01-06
+UGBT-E7-0780,ERS420803,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,12 months,31.89656,Ankole,0.37013,male,2012-01-06
+UGBT-E7-0781,ERS420804,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,12 months,31.89656,Ankole,0.37013,male,2012-01-06
+UGBT-E7-0782,ERS420805,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,24 months,31.89656,Ankole,0.37013,male,2012-01-06
+UGBT-E7-0785,ERS420808,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,12 months,31.89656,Ankole,0.37013,male,2012-01-06
+UGBT-E8-0204,ERS420823,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,24 months,31.55935,Nganda,-0.14461,male,2011-06-10
+UGBT-F3-0506,ERS420848,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,24 months,32.3544,Ankole Zebu cross,2.84837,male,2011-08-06
+UGBT-F3-0508,ERS420850,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,36 months,32.3544,Shorthorn Zebu,2.84837,male,2011-08-06
+UGBT-F3-0519,ERS420861,30523,Bos taurus x Bos indicus,Uganda,GULU,KORO,60 months,32.40484,Shorthorn Zebu,2.69135,male,2011-08-06
+UGBT-F3-0524,ERS420865,30523,Bos taurus x Bos indicus,Uganda,GULU,KORO,36 months,32.41719,Shorthorn Zebu,2.69807,male,2011-08-06
+UGBT-F4-0599,ERS420880,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,24 months,32.45656,Shorthorn Zebu,2.02553,male,2011-12-21
+UGBT-F4-0603,ERS420884,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,60 months,32.4485,Shorthorn Zebu,2.04715,male,2011-12-21
+UGBT-F4-0604,ERS420885,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,60 months,32.4485,Shorthorn Zebu,2.04715,male,2011-12-21
+UGBT-F4-0605,ERS420886,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,60 months,32.4485,Shorthorn Zebu,2.04715,male,2011-12-21
+UGBT-F5-0659,ERS420905,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,12 months,32.09648,Ankole,1.39733,male,2012-01-02
+UGBT-G2-0437,ERS420949,30523,Bos taurus x Bos indicus,Uganda,LAMWO,MADI OPEI,120 months,33.05016,Shorthorn Zebu,3.47267,male,2011-08-02
+UGBT-G2-0443,ERS420955,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,72 months,33.06202,Shorthorn Zebu,3.49713,male,2011-08-02
+UGBT-G2-0445,ERS420957,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,60 months,33.06202,Shorthorn Zebu,3.49713,male,2011-08-02
+UGBT-G2-0446,ERS239088,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,48 months,32.94359,Ankole Zebu cross,3.35815,male,2011-08-02
+UGBT-G3-0490,ERS420965,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,36 months,33.07119,Ankole,3.0387,male,2011-08-05
+UGBT-G3-0495,ERS420970,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,24 months,33.07119,Shorthorn Zebu,3.0387,male,2011-08-05
+UGBT-G3-0502,ERS420977,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,36 months,33.06567,Shorthorn Zebu,2.98782,male,2011-08-05
+UGBT-G3-0503,ERS420978,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,36 months,33.06567,Shorthorn Zebu,2.98782,male,2011-08-05
+UGBT-G6-0562,ERS421034,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,84 months,32.76132,Ankole,1.18822,male,2012-01-10
+UGBT-G7-0049,ERS421057,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUTAGAYA SC,60 months,33.12106,Ankole,0.61905,male,2011-04-15
+UGBT-G7-0050,ERS421058,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUTAGAYA SC,36 months,33.12106,Ankole,0.61905,male,2011-04-15
+UGBT-H2-0419,ERS421061,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,60 months,33.46838,Ankole Zebu cross,3.40943,male,2011-08-01
+UGBT-H2-0423,ERS421065,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,72 months,33.48622,Shorthorn Zebu,3.55361,male,2011-08-01
+UGBT-H2-0424,ERS421066,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,84 months,33.48622,Shorthorn Zebu,3.55361,male,2011-08-01
+UGBT-H2-0426,ERS421068,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,48 months,33.48641,Shorthorn Zebu,3.35978,male,2011-08-01
+UGBT-H2-0428,ERS421070,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,96 months,33.48641,Ankole Zebu cross,3.35978,male,2011-08-01
+UGBT-H3-0453,ERS421078,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,72 months,33.656794,Shorthorn Zebu,2.70009,male,2011-08-03
+UGBT-H3-0455,ERS421080,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,12 months,33.75225,Shorthorn Zebu,2.82619,male,2011-08-03
+UGBT-H3-0456,ERS421081,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,24 months,33.75225,Shorthorn Zebu,2.82619,male,2011-08-03
+UGBT-H3-0457,ERS421082,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,12 months,33.75225,Shorthorn Zebu,2.82619,male,2011-08-03
+UGBT-H3-0458,ERS421083,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,96 months,33.73854,Shorthorn Zebu,2.81939,male,2011-08-03
+UGBT-H3-0459,ERS421084,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,24 months,33.73854,Shorthorn Zebu,2.81939,male,2011-08-03
+UGBT-H4-0863,ERS421096,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,36 months,33.47195,East African Shorthorn Zebu,2.14746,male,2012-01-24
+UGBT-H4-0866,ERS421099,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,36 months,33.47195,East African Shorthorn Zebu,2.14746,male,2012-01-24
+UGBT-H4-0868,ERS421101,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,48 months,33.67712,East African Shorthorn Zebu,2.28745,male,2012-01-24
+UGBT-H4-0869,ERS421102,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,60 months,33.67712,East African Shorthorn Zebu,2.28745,male,2012-01-24
+UGBT-H4-0870,ERS421103,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,60 months,33.67712,East African Shorthorn Zebu,2.28745,male,2012-01-24
+UGBT-H4-0873,ERS421106,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,24 months,33.52712,East African Shorthorn Zebu,2.47919,male,2012-01-24
+UGBT-H4-0874,ERS421107,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,84 months,33.52712,East African Shorthorn Zebu,2.47919,male,2012-01-24
+UGBT-H4-0875,ERS421108,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,60 months,33.52712,East African Shorthorn Zebu,2.47919,male,2012-01-24
+UGBT-H4-0877,ERS421110,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,36 months,33.52712,East African Shorthorn Zebu,2.47919,male,2012-01-24
+UGBT-H6-0811,ERS421139,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,72 months,33.72608,East African Shorthorn Zebu,0.84916,male,2012-01-18
+UGBT-H6-0812,ERS421140,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,60 months,33.72608,East African Shorthorn Zebu,0.84916,male,2012-01-18
+UGBT-H6-0813,ERS421141,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,48 months,33.72608,East African Shorthorn Zebu,0.84916,male,2012-01-18
+UGBT-H6-0814,ERS421142,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,48 months,33.72608,East African Shorthorn Zebu,0.84916,male,2012-01-18
+UGBT-H6-0815,ERS421143,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,72 months,33.72608,East African Shorthorn Zebu,0.84916,male,2012-01-18
+UGBT-H6-0820,ERS421148,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKYERE,48 months,33.73819,East African Shorthorn Zebu,0.78147,male,2012-01-18
+UGBT-H7-0057,ERS421155,30523,Bos taurus x Bos indicus,Uganda,JINJA,BULAMAGI SC,72 months,33.42077,Shorthorn Zebu,0.65176,male,2011-04-15
+UGBT-H7-0058,ERS421156,30523,Bos taurus x Bos indicus,Uganda,JINJA,BULAMAGI SC,48 months,33.42077,Shorthorn Zebu,0.65176,male,2011-04-15
+UGBT-H7-0062,ERS421160,30523,Bos taurus x Bos indicus,Uganda,JINJA,MPUGWE SC,36 months,33.5566,Shorthorn Zebu,0.44152,male,2011-04-16
+UGBT-H7-0063,ERS421161,30523,Bos taurus x Bos indicus,Uganda,JINJA,MPUGWE SC,120 months,33.5566,Shorthorn Zebu,0.44152,male,2011-04-16
+UGBT-H7-0068,ERS421166,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,BUKOLI,120 months,33.68813,Ankole,0.47944,male,2011-04-16
+UGBT-H7-0070,ERS421168,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,BUKOLI,120 months,33.68813,Shorthorn Zebu,0.47944,male,2011-04-16
+UGBT-H7-0071,ERS421169,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,Bukoli,,33.68813,Shorthorn Zebu,0.47944,female,2011-04-16
+UGBT-H7-0072,ERS421170,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,Bukoli,,33.68091,Shorthorn Zebu,0.52474,female,2011-04-17
+UGBT-H7-0073,ERS421171,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,Bukoli,,33.68091,Shorthorn Zebu,0.52474,female,2011-04-17
+UGBT-I3-0484,ERS421191,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,33.99299,Shorthorn Zebu,2.99355,male,2011-08-04
+UGBT-I4-0882,ERS421197,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,36 months,33.96431,East African Shorthorn Zebu,2.12029,male,2012-01-25
+UGBT-I4-0887,ERS421202,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,72 months,33.97197,East African Shorthorn Zebu,2.14746,male,2012-01-25
+UGBT-I6-0023,ERS421235,30523,Bos taurus x Bos indicus,Uganda,BUTALEJA,BUTALEJA TC,,33.96317,East African Shorthorn Zebu,0.94494,male,2011-03-11
+UGBT-I6-0827,ERS421242,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,18 months,33.95186,East African Shorthorn Zebu,1.01682,male,2012-01-18
+UGBT-I7-0009,ERS421253,30523,Bos taurus x Bos indicus,Uganda,Tororo,Tororo,,34.12545,East African Shorthorn Zebu,0.59888,male,2011-03-10
+UGBT-I7-0018,ERS421261,30523,Bos taurus x Bos indicus,Uganda,TORORO,OSUKURU,120 months,34.10406,East African Shorthorn Zebu,0.72644,male,2011-03-10
+UGBT-I7-0020,ERS421263,30523,Bos taurus x Bos indicus,Uganda,TORORO,OSUKURU,96 months,34.10406,Ankole Zebu cross,0.72644,male,2011-03-10
+UGBT-J4-0916,ERS421292,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,108 months,34.68632,East African Shorthorn Zebu,2.04746,male,2012-01-26
+UGBT-J5-0918,ERS421294,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,72 months,34.59608,East African Shorthorn Zebu,1.93608,male,2012-01-27
+UGBT-J5-0919,ERS421295,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,72 months,34.59608,East African Shorthorn Zebu,1.93608,male,2012-01-27
+UGBT-J5-0920,ERS421296,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,120 months,34.59608,East African Shorthorn Zebu,1.93608,male,2012-01-27
+UGBT-J5-0923,ERS421298,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,TOKORA,72 months,34.62992,East African Shorthorn Zebu,1.86651,male,2012-01-27
+UGBT-J5-0924,ERS421299,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,TOKORA,72 months,34.62992,East African Shorthorn Zebu,1.86651,male,2012-01-27
+UGBT-B10-0225,ERS420423,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAHARO,132 months,30.09057,Nkiga,-1.28401,female,2011-06-27
+UGBT-B10-0226,ERS420424,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAHARO,36 months,30.09057,Nkiga,-1.28401,female,2011-06-27
+UGBT-B10-0228,ERS420426,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAHARO,24 months,30.09057,Nkiga,-1.28401,female,2011-06-27
+UGBT-B10-0229,ERS420427,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,60 months,29.97195,Nkiga,-1.42515,female,2011-06-28
+UGBT-B10-0231,ERS420429,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,60 months,29.97195,Nkiga,-1.42515,female,2011-06-28
+UGBT-B10-0232,ERS420430,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,72 months,29.97195,Nkiga,-1.42515,female,2011-06-28
+UGBT-B10-0233,ERS420431,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,60 months,29.98299,Nkiga,-1.41958,female,2011-06-28
+UGBT-B10-0234,ERS420432,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,48 months,29.98299,Nkiga,-1.41958,female,2011-06-28
+UGBT-B10-0236,ERS420434,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,84 months,29.98299,Nkiga,-1.41958,female,2011-06-28
+UGBT-B10-0237,ERS420435,30523,Bos taurus x Bos indicus,Uganda,Kabale,Rubaya,60 months,29.94839,Ankole,-1.39844,female,2011-06-28
+UGBT-B10-0238,ERS420436,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,60 months,29.94839,Nkiga,-1.39844,female,2011-06-28
+UGBT-B10-0239,ERS420437,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,60 months,29.94839,Nkiga,-1.39844,female,2011-06-28
+UGBT-B10-0240,ERS420438,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,48 months,29.94839,Nkiga,-1.39844,female,2011-06-28
+UGBT-B10-0241,ERS420439,30523,Bos taurus x Bos indicus,Uganda,KABALE,RUBAYA,72 months,29.94839,Nkiga,-1.39844,female,2011-06-28
+UGBT-B7-0089,ERS420441,30523,Bos taurus x Bos indicus,Uganda,KASESE,RUKOKI,84 months,30.10559,Ankole,0.19685,female,2011-05-10
+UGBT-B7-0090,ERS420442,30523,Bos taurus x Bos indicus,Uganda,KASESE,RUKOKI,60 months,30.10559,Ankole,0.19685,female,2011-05-10
+UGBT-B7-0091,ERS420443,30523,Bos taurus x Bos indicus,Uganda,KASESE,RUKOKI,120 months,30.10559,Ankole,0.19685,female,2011-05-10
+UGBT-B8-0092,ERS420445,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,144 months,29.90616,Ankole,0.00544,female,2011-05-10
+UGBT-B8-0093,ERS420446,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,108 months,29.90616,Ankole,0.00544,female,2011-05-10
+UGBT-B8-0094,ERS420447,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,24 months,29.90616,Ankole,0.00544,female,2011-05-10
+UGBT-B8-0095,ERS420448,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,30 months,29.90616,Nsongora,0.00544,female,2011-05-10
+UGBT-B8-0096,ERS420449,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,120 months,29.91862,Ankole,0.00937,female,2011-05-10
+UGBT-B8-0097,ERS420450,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,96 months,29.91862,Ankole,0.00937,female,2011-05-10
+UGBT-B8-0098,ERS420451,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,120 months,29.91862,Ankole,0.00937,female,2011-05-10
+UGBT-B8-0099,ERS420452,30523,Bos taurus x Bos indicus,Uganda,KASESE,LAKE KATWE,96 months,29.91862,Ntuku,0.00937,female,2011-05-10
+UGBT-B8-0100,ERS420453,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUNKUNYU,60 months,29.83887,Ankole,0.10449,female,2011-05-10
+UGBT-B8-0101,ERS239084,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUNKUNYU,84 months,29.83887,Nsongora,0.10449,female,2011-05-10
+UGBT-B8-0102,ERS420454,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUNKUNYU,84 months,29.83887,Nsongora,0.10449,female,2011-05-10
+UGBT-B8-0103,ERS420455,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUNKUNYU,60 months,29.83887,Nsongora,0.10449,female,2011-05-10
+UGBT-B8-0104,ERS420456,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUNKUNYU,60 months,29.8374,Nsongora,0.10335,female,2011-05-10
+UGBT-B8-0105,ERS420457,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUNKUNYU,60 months,29.8374,Ankole,0.10335,female,2011-05-10
+UGBT-B8-0107,ERS420459,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUNKUNYU,36 months,29.8374,Nsongora,0.10335,female,2011-05-10
+UGBT-B8-0108,ERS420460,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUHOKYA,96 months,30.04338,Nsongora,0.09478,female,2011-05-11
+UGBT-B8-0109,ERS420461,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUHOKYA,60 months,30.04338,Nsongora,0.09478,female,2011-05-11
+UGBT-B8-0110,ERS420462,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUHOKYA,60 months,30.04338,Nsongora,0.09478,female,2011-05-11
+UGBT-B8-0111,ERS420463,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUHOKYA,36 months,30.04338,Nsongora,0.09478,female,2011-05-11
+UGBT-B8-0112,ERS420464,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUHOKYA,192 months,30.05218,Ankole,0.05945,female,2011-05-11
+UGBT-B8-0113,ERS420465,30523,Bos taurus x Bos indicus,Uganda,KASESE,MUHOKYA,144 months,30.05218,Ankole,0.05945,female,2011-05-11
+UGBT-B9-0242,ERS420467,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,84 months,30.00819,Ankole,-0.91676,female,2011-06-29
+UGBT-B9-0243,ERS420468,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,108 months,30.00819,Ankole,-0.91676,female,2011-06-29
+UGBT-B9-0244,ERS239070,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,96 months,30.00819,Ankole,-0.91676,female,2011-06-29
+UGBT-B9-0246,ERS420470,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,84 months,30.00819,Ankole,-0.91676,female,2011-06-29
+UGBT-B9-0247,ERS420471,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,120 months,30.00819,Ankole,-0.91676,female,2011-06-29
+UGBT-B9-0248,ERS420472,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,96 months,30.00819,Ankole,-0.91676,female,2011-06-29
+UGBT-B9-0249,ERS420473,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,72 months,30.00819,Ankole,-0.91676,female,2011-06-29
+UGBT-B9-0250,ERS420474,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,84 months,30.030402,Ankole,-0.97812,female,2011-06-29
+UGBT-B9-0251,ERS420475,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,60 months,30.030402,Ankole,-0.97812,female,2011-06-29
+UGBT-B9-0253,ERS420477,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,NYARUSHANZE,96 months,30.030402,Ankole,-0.97812,female,2011-06-29
+UGBT-B9-0254,ERS420478,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,KEBISONI,48 months,30.01802,Ankole,-0.87998,female,2011-06-29
+UGBT-B9-0255,ERS420479,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,KEBISONI,60 months,30.01802,Ankole,-0.87998,female,2011-06-29
+UGBT-B9-0256,ERS420480,30523,Bos taurus x Bos indicus,Uganda,RUKUNGIRI,KEBISONI,120 months,30.01802,Ankole,-0.87998,female,2011-06-29
+UGBT-C10-0209,ERS420482,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,36 months,30.22658,Nkiga,-1.22172,female,2011-06-27
+UGBT-C10-0210,ERS420483,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,36 months,30.22658,Nkiga,-1.22172,female,2011-06-27
+UGBT-C10-0211,ERS420484,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,60 months,30.22658,Nkiga,-1.22172,female,2011-06-27
+UGBT-C10-0213,ERS420486,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,84 months,30.23534,Nkiga,-1.32242,female,2011-06-27
+UGBT-C10-0214,ERS420487,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,48 months,30.23534,Nkiga,-1.32242,female,2011-06-27
+UGBT-C10-0216,ERS420489,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,36 months,30.23534,Nkiga,-1.32242,female,2011-06-27
+UGBT-C10-0217,ERS420490,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,84 months,30.25736,Nkiga,-1.20433,female,2011-06-27
+UGBT-C10-0218,ERS420491,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,96 months,30.25736,Nkiga,-1.20433,female,2011-06-27
+UGBT-C10-0219,ERS239064,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,48 months,30.25736,Nkiga,-1.20433,female,2011-06-27
+UGBT-C10-0220,ERS420492,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,96 months,30.25736,Nkiga,-1.20433,female,2011-06-27
+UGBT-C10-0221,ERS420493,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,84 months,30.21516,Nkiga,-1.21719,female,2011-06-27
+UGBT-C10-0222,ERS420494,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,72 months,30.21516,Nkiga,-1.21719,female,2011-06-27
+UGBT-C10-0223,ERS420495,30523,Bos taurus x Bos indicus,Uganda,KABALE,KAMWEZI,60 months,30.21516,Nkiga,-1.21719,female,2011-06-27
+UGBT-C6-0728,ERS420499,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,36 months,30.23459,East African Shorthorn Zebu,0.86187,female,2012-01-04
+UGBT-C6-0729,ERS239065,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,24 months,30.23459,East African Shorthorn Zebu,0.86187,female,2012-01-04
+UGBT-C6-0733,ERS420503,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,120 months,30.23459,East African Shorthorn Zebu,0.86187,female,2012-01-04
+UGBT-C6-0734,ERS420504,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,24 months,30.23459,East African Shorthorn Zebu,0.86187,female,2012-01-04
+UGBT-C6-0735,ERS420505,30523,Bos taurus x Bos indicus,Uganda,NTOROKO,KARUGUTU,120 months,30.23459,East African Shorthorn Zebu,0.86187,female,2012-01-04
+UGBT-C7-0076,ERS420506,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,48 months,30.17234,Ankole,0.28124,female,2011-05-09
+UGBT-C7-0077,ERS420507,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,84 months,30.17234,Ankole,0.28124,female,2011-05-09
+UGBT-C7-0078,ERS420508,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,84 months,30.17234,Ankole,0.28124,female,2011-05-09
+UGBT-C7-0079,ERS420509,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,48 months,30.17234,Ankole,0.28124,female,2011-05-09
+UGBT-C7-0080,ERS420510,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,96 months,30.1998,Ankole,0.31706,female,2011-05-09
+UGBT-C7-0081,ERS420511,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,96 months,30.1998,Ankole,0.31706,female,2011-05-09
+UGBT-C7-0082,ERS420512,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,72 months,30.1998,Ankole,0.31706,female,2011-05-09
+UGBT-C7-0084,ERS420514,30523,Bos taurus x Bos indicus,Uganda,KASESE,KITSWAMBA,60 months,30.11941,Ankole,0.25197,female,2011-05-09
+UGBT-C7-0085,ERS420515,30523,Bos taurus x Bos indicus,Uganda,KASESE,KARUSANDARA,144 months,30.11941,Ankole,0.25197,female,2011-05-09
+UGBT-C7-0086,ERS420516,30523,Bos taurus x Bos indicus,Uganda,KASESE,KARUSANDARA,120 months,30.11941,Ankole,0.25197,female,2011-05-09
+UGBT-C7-0087,ERS420517,30523,Bos taurus x Bos indicus,Uganda,KASESE,KARUSANDARA,108 months,30.11941,Ankole,0.25197,female,2011-05-09
+UGBT-C7-0117,ERS420518,30523,Bos taurus x Bos indicus,Uganda,KASESE,BUGOYE,60 months,30.11026,Ankole,0.27011,female,2011-05-11
+UGBT-C7-0118,ERS420519,30523,Bos taurus x Bos indicus,Uganda,KASESE,BUGOYE,72 months,30.11026,Ankole,0.27011,female,2011-05-11
+UGBT-C7-0119,ERS420520,30523,Bos taurus x Bos indicus,Uganda,KASESE,BUGOYE,120 months,30.11026,Ankole,0.27011,female,2011-05-11
+UGBT-C7-0120,ERS420521,30523,Bos taurus x Bos indicus,Uganda,KASESE,BUGOYE,60 months,30.11026,Ankole,0.27011,female,2011-05-11
+UGBT-C7-0122,ERS420523,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,96 months,30.54278,Ankole,0.66433,female,2011-05-12
+UGBT-C7-0123,ERS420524,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,36 months,30.54278,Ntoro,0.66433,female,2011-05-12
+UGBT-C7-0124,ERS239085,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,60 months,30.54278,Ntoro,0.66433,female,2011-05-12
+UGBT-C7-0125,ERS420525,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,60 months,30.58295,Ntoro,0.66747,female,2011-05-12
+UGBT-C7-0126,ERS420526,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,60 months,30.58295,Ntoro,0.66747,female,2011-05-12
+UGBT-C7-0127,ERS420527,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,48 months,30.58295,Ntoro,0.66747,female,2011-05-12
+UGBT-C7-0128,ERS420528,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,72 months,30.58295,Ntoro,0.66747,female,2011-05-12
+UGBT-C7-0129,ERS420529,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,84 months,30.58452,Ntoro,0.65922,female,2011-05-12
+UGBT-C7-0130,ERS420530,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,84 months,30.58452,Ntoro,0.65922,female,2011-05-12
+UGBT-C7-0131,ERS420531,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,144 months,30.58452,Ntoro,0.65922,female,2011-05-12
+UGBT-C7-0132,ERS420532,30523,Bos taurus x Bos indicus,Uganda,KYENJOJO,BUTITI,30 months,30.58452,Ntoro,0.65922,female,2011-05-12
+UGBT-C8-0133,ERS420533,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,60 months,30.71066,Ankole,-0.37943,female,2011-06-06
+UGBT-C8-0134,ERS420534,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,48 months,30.71066,Ankole,-0.37943,female,2011-06-06
+UGBT-C8-0135,ERS420535,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,84 months,30.71066,Ankole,-0.37943,female,2011-06-06
+UGBT-C8-0136,ERS420536,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,36 months,30.71066,Ankole,-0.37943,female,2011-06-06
+UGBT-C8-0138,ERS420538,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,36 months,30.71875,Ankole,-0.37473,female,2011-06-06
+UGBT-C8-0139,ERS420539,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,36 months,30.71875,Ankole,-0.37473,female,2011-06-06
+UGBT-C8-0140,ERS420540,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,48 months,30.71875,Ankole,-0.37473,female,2011-06-06
+UGBT-C8-0157,ERS420541,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,84 months,30.48351,Ankole,-0.1463,female,2011-06-07
+UGBT-C8-0158,ERS420542,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,48 months,30.48351,Ankole,-0.1463,female,2011-06-07
+UGBT-C8-0159,ERS420543,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,72 months,30.48351,Ankole,-0.1463,female,2011-06-08
+UGBT-C8-0160,ERS420544,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,96 months,30.48351,Ankole,-0.1463,female,2011-06-08
+UGBT-C8-0161,ERS420545,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,96 months,30.52737,Ankole,-0.14333,female,2011-06-08
+UGBT-C8-0162,ERS420546,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,60 months,30.52737,Ankole,-0.14333,female,2011-06-08
+UGBT-C8-0163,ERS420547,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,120 months,30.52737,Ankole,-0.14333,female,2011-06-08
+UGBT-C8-0164,ERS420548,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,72 months,30.52737,Ankole,-0.14333,female,2011-06-08
+UGBT-C8-0166,ERS420550,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,48 months,30.52045,Ankole,-0.16311,female,2011-06-08
+UGBT-C8-0167,ERS420551,30523,Bos taurus x Bos indicus,Uganda,MBARARA,IBANDA,84 months,30.52045,Ankole,-0.16311,female,2011-06-08
+UGBT-C8-0168,ERS420552,30523,Bos taurus x Bos indicus,Uganda,,,144 months,30.52045,Nganda,-0.16311,female,2011-06-08
+UGBT-C9-0142,ERS420555,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,48 months,30.65423,Ankole,-0.53971,female,2011-06-07
+UGBT-C9-0143,ERS420556,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,84 months,30.65423,Ankole,-0.53971,female,2011-06-07
+UGBT-C9-0144,ERS420557,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,60 months,30.65423,Ankole,-0.53971,female,2011-06-07
+UGBT-C9-0145,ERS420558,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,60 months,30.62749,Ankole,-0.5269,female,2011-06-07
+UGBT-C9-0146,ERS420559,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,84 months,30.62749,Ankole,-0.5269,female,2011-06-07
+UGBT-C9-0148,ERS420561,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,48 months,30.62749,Ankole,-0.5269,female,2011-06-07
+UGBT-C9-0149,ERS420562,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,36 months,30.60934,Ankole,-0.58392,female,2011-06-07
+UGBT-C9-0150,ERS420563,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,84 months,30.60934,Ankole,-0.58392,female,2011-06-07
+UGBT-C9-0151,ERS420564,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,60 months,30.60934,Ankole,-0.58392,female,2011-06-07
+UGBT-C9-0153,ERS420566,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,84 months,30.6126,Ankole,-0.60527,female,2011-06-07
+UGBT-C9-0154,ERS420567,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,96 months,30.6126,Ankole,-0.60527,female,2011-06-07
+UGBT-C9-0155,ERS420568,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,36 months,30.6126,Ankole,-0.60527,female,2011-06-07
+UGBT-C9-0156,ERS420569,30523,Bos taurus x Bos indicus,Uganda,MBARARA,Mbarara,96 months,30.6126,Ankole,-0.60527,female,2011-06-07
+UGBT-D2-0359,ERS420571,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,108 months,31.12822,Small East African Zebu,3.53858,female,2011-07-13
+UGBT-D2-0360,ERS420572,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,120 months,31.12822,Small East African Zebu,3.53858,female,2011-07-13
+UGBT-D2-0361,ERS420573,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,84 months,31.12822,Small East African Zebu,3.53858,female,2011-07-13
+UGBT-D2-0362,ERS420574,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,120 months,31.13442,Small East African Zebu,3.56848,female,2011-07-13
+UGBT-D2-0363,ERS239083,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,108 months,31.13442,Small East African Zebu,3.56848,female,2011-07-13
+UGBT-D2-0364,ERS420575,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,120 months,31.13442,Small East African Zebu,3.56848,female,2011-07-13
+UGBT-D2-0365,ERS420576,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,72 months,31.13442,Small East African Zebu,3.56848,female,2011-07-13
+UGBT-D2-0366,ERS420577,30523,Bos taurus x Bos indicus,Uganda,YUMBE,MIDIGO,144 months,31.24368,Small East African Zebu,3.56239,female,2011-07-13
+UGBT-D2-0367,ERS420578,30523,Bos taurus x Bos indicus,Uganda,YUMBE,MIDIGO,84 months,31.24368,Small East African Zebu,3.56239,female,2011-07-13
+UGBT-D2-0368,ERS420579,30523,Bos taurus x Bos indicus,Uganda,YUMBE,MIDIGO,72 months,31.24368,Small East African Zebu,3.56239,female,2011-07-13
+UGBT-D2-0369,ERS420580,30523,Bos taurus x Bos indicus,Uganda,YUMBE,MIDIGO,96 months,31.24368,Small East African Zebu,3.56239,female,2011-07-13
+UGBT-D2-0370,ERS420581,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,96 months,31.2012,Small East African Zebu,3.58022,female,2011-07-13
+UGBT-D2-0372,ERS420583,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,96 months,31.2012,Small East African Zebu,3.58022,female,2011-07-13
+UGBT-D2-0373,ERS420584,30523,Bos taurus x Bos indicus,Uganda,YUMBE,KEI,84 months,31.2012,Small East African Zebu,3.58022,female,2011-07-13
+UGBT-D3-0374,ERS420585,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,84 months,30.96025,Small East African Zebu,3.01263,female,2011-07-14
+UGBT-D3-0375,ERS420586,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,168 months,30.96025,Small East African Zebu,3.01263,female,2011-07-14
+UGBT-D3-0376,ERS420587,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,96 months,30.96025,Small East African Zebu,3.01263,female,2011-07-14
+UGBT-D3-0377,ERS420588,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,120 months,30.96025,Small East African Zebu,3.01263,female,2011-07-14
+UGBT-D3-0378,ERS420589,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,72 months,30.96025,Small East African Zebu,3.01263,female,2011-07-14
+UGBT-D3-0379,ERS420590,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,156 months,30.96025,Small East African Zebu,3.01263,female,2011-07-14
+UGBT-D3-0380,ERS420591,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,156 months,30.96025,Small East African Zebu,3.01263,female,2011-07-14
+UGBT-D3-0383,ERS420593,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,36 months,31.0507,Small East African Zebu,3.0253,female,2011-07-14
+UGBT-D3-0384,ERS420594,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,96 months,31.0507,Small East African Zebu,3.0253,female,2011-07-14
+UGBT-D3-0385,ERS420595,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,96 months,31.0507,Small East African Zebu,3.0253,female,2011-07-14
+UGBT-D3-0387,ERS420597,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,96 months,31.10044,Small East African Zebu,3.02994,female,2011-07-14
+UGBT-D3-0388,ERS420598,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,120 months,31.10044,Small East African Zebu,3.02994,female,2011-07-14
+UGBT-D3-0389,ERS420599,30523,Bos taurus x Bos indicus,Uganda,ARUA,OLUKO,108 months,31.10044,Small East African Zebu,3.02994,female,2011-07-14
+UGBT-D4-0406,ERS420600,30523,Bos taurus x Bos indicus,Uganda,NEBBI,Panyango,84 months,31.12947,Shorthorn Zebu,2.51492,female,2011-07-15
+UGBT-D4-0407,ERS420601,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,96 months,31.12947,Shorthorn Zebu,2.51492,female,2011-07-15
+UGBT-D4-0408,ERS420602,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,120 months,31.12947,Shorthorn Zebu,2.51492,female,2011-07-15
+UGBT-D4-0409,ERS420603,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,60 months,31.12947,Shorthorn Zebu,2.51492,female,2011-07-15
+UGBT-D4-0410,ERS420604,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,108 months,31.1379,Shorthorn Zebu,2.54497,female,2011-07-15
+UGBT-D4-0411,ERS420605,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,72 months,31.1379,Shorthorn Zebu,2.54497,female,2011-07-15
+UGBT-D4-0413,ERS420607,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,72 months,31.1379,Shorthorn Zebu,2.54497,female,2011-07-15
+UGBT-D4-0414,ERS420608,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,84 months,31.07799,Shorthorn Zebu,2.47911,female,2011-07-15
+UGBT-D4-0415,ERS420609,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,84 months,31.07799,Shorthorn Zebu,2.47911,female,2011-07-15
+UGBT-D4-0417,ERS420611,30523,Bos taurus x Bos indicus,Uganda,NEBBI,NEBBI,96 months,31.07799,Shorthorn Zebu,2.47911,female,2011-07-15
+UGBT-D5-0686,ERS420612,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,36 months,31.31653,Ankole,1.70078,female,2012-01-04
+UGBT-D5-0687,ERS420613,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,96 months,31.31653,Ankole,1.70078,female,2012-01-04
+UGBT-D5-0689,ERS420615,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,84 months,31.31653,Ankole,1.70078,female,2012-01-04
+UGBT-D5-0690,ERS420616,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,24 months,31.31653,Ankole,1.70078,female,2012-01-04
+UGBT-D5-0691,ERS420617,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,120 months,31.30803,Ankole,1.61455,female,2012-01-04
+UGBT-D5-0692,ERS420618,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,84 months,31.30803,Ankole,1.61455,female,2012-01-04
+UGBT-D5-0694,ERS420620,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,36 months,31.30803,Ankole,1.61455,female,2012-01-04
+UGBT-D5-0695,ERS420621,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIGOROBYA,96 months,31.30803,Ankole,1.61455,female,2012-01-04
+UGBT-D6-0696,ERS420622,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,96 months,31.34532,Ankole,0.75372,female,2012-01-04
+UGBT-D6-0697,ERS420623,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,72 months,31.34532,Ankole,0.75372,female,2012-01-04
+UGBT-D6-0698,ERS420624,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,72 months,31.34532,Ankole,0.75372,female,2012-01-04
+UGBT-D6-0699,ERS420625,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,72 months,31.34532,Ankole,0.75372,female,2012-01-04
+UGBT-D6-0702,ERS420627,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,48 months,31.30129,Ankole,0.97391,female,2012-01-04
+UGBT-D6-0703,ERS420628,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,72 months,31.30129,Ankole,0.97391,female,2012-01-04
+UGBT-D6-0704,ERS420629,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,36 months,31.30129,Ankole,0.97391,female,2012-01-04
+UGBT-D6-0705,ERS420630,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,36 months,31.30129,Ankole,0.97391,female,2012-01-04
+UGBT-D6-0707,ERS420632,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,36 months,31.23101,Small East African Zebu,1.00349,female,2012-01-04
+UGBT-E2-0334,ERS420711,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,36 months,31.80721,Shorthorn Zebu,3.37071,female,2011-07-12
+UGBT-E2-0335,ERS420712,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,48 months,31.80721,Shorthorn Zebu,3.37071,female,2011-07-12
+UGBT-E2-0336,ERS420713,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,96 months,31.80721,Shorthorn Zebu,3.37071,female,2011-07-12
+UGBT-E2-0338,ERS420715,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,PAKELE,108 months,31.87626,Shorthorn Zebu,3.358338,female,2011-07-12
+UGBT-E2-0339,ERS420716,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,PAKELE,72 months,31.87626,Shorthorn Zebu,3.358338,female,2011-07-12
+UGBT-E2-0340,ERS420717,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,PAKELE,72 months,31.87626,Shorthorn Zebu,3.358338,female,2011-07-12
+UGBT-E2-0341,ERS420718,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,PAKELE,96 months,31.87626,Shorthorn Zebu,3.358338,female,2011-07-12
+UGBT-E3-0343,ERS420720,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,84 months,31.78031,Shorthorn Zebu,3.21591,female,2011-07-12
+UGBT-E3-0344,ERS420721,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,72 months,31.78031,Shorthorn Zebu,3.21591,female,2011-07-12
+UGBT-E3-0345,ERS420722,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,120 months,31.78031,Shorthorn Zebu,3.21591,female,2011-07-12
+UGBT-E3-0347,ERS420724,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,72 months,31.684,Shorthorn Zebu,3.14992,female,2011-07-12
+UGBT-E3-0348,ERS420725,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,72 months,31.684,Shorthorn Zebu,3.14992,female,2011-07-12
+UGBT-E3-0349,ERS420726,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,96 months,31.684,Shorthorn Zebu,3.14992,female,2011-07-12
+UGBT-E3-0351,ERS420728,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,72 months,31.73258,Shorthorn Zebu,3.14143,female,2011-07-12
+UGBT-E3-0352,ERS420729,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,24 months,31.73258,Shorthorn Zebu,3.14143,female,2011-07-12
+UGBT-E3-0354,ERS420731,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,96 months,31.7562,Shorthorn Zebu,3.16741,female,2011-07-12
+UGBT-E3-0355,ERS420732,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,36 months,31.7562,Shorthorn Zebu,3.16741,female,2011-07-12
+UGBT-E3-0356,ERS420733,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ITIRIKWA,60 months,31.7562,Shorthorn Zebu,3.16741,female,2011-07-12
+UGBT-E4-0390,ERS420735,30523,Bos taurus x Bos indicus,Uganda,NEBBI,Panyango,132 months,31.49471,Shorthorn Zebu,2.46127,female,2011-07-15
+UGBT-E4-0392,ERS420737,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,96 months,31.49471,Shorthorn Zebu,2.46127,female,2011-07-15
+UGBT-E4-0393,ERS420738,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,84 months,31.49471,Shorthorn Zebu,2.46127,female,2011-07-15
+UGBT-E4-0394,ERS420739,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,96 months,31.45993,Shorthorn Zebu,2.48431,female,2011-07-15
+UGBT-E4-0395,ERS420740,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,120 months,31.45993,Shorthorn Zebu,2.48431,female,2011-07-15
+UGBT-E4-0396,ERS420741,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,108 months,31.45993,Shorthorn Zebu,2.48431,female,2011-07-15
+UGBT-E4-0397,ERS420742,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,72 months,31.45993,Shorthorn Zebu,2.48431,female,2011-07-15
+UGBT-E4-0398,ERS420743,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,72 months,31.45218,Shorthorn Zebu,2.50504,female,2011-07-15
+UGBT-E4-0399,ERS420744,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,96 months,31.45218,Shorthorn Zebu,2.50504,female,2011-07-15
+UGBT-E4-0400,ERS420745,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,84 months,31.45218,Shorthorn Zebu,2.50504,female,2011-07-15
+UGBT-E4-0402,ERS420747,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,120 months,31.49154,Shorthorn Zebu,2.4649,female,2011-07-15
+UGBT-E4-0403,ERS420748,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,72 months,31.49154,Shorthorn Zebu,2.4649,female,2011-07-15
+UGBT-E4-0404,ERS420749,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,48 months,31.49154,Shorthorn Zebu,2.4649,female,2011-07-15
+UGBT-E4-0405,ERS420750,30523,Bos taurus x Bos indicus,Uganda,NEBBI,PANYAGO,24 months,31.49154,Shorthorn Zebu,2.4649,female,2011-07-15
+UGBT-E5-0666,ERS420751,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,72 months,31.8742,Ankole,1.63416,female,2012-01-03
+UGBT-E5-0668,ERS420753,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,72 months,31.8742,Ankole,1.63416,female,2012-01-03
+UGBT-E5-0669,ERS420754,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,96 months,31.8742,Ankole,1.63416,female,2012-01-03
+UGBT-E5-0670,ERS420755,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,108 months,31.8742,Small East African Zebu,1.63416,female,2012-01-03
+UGBT-E5-0671,ERS420756,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,72 months,31.77569,Ankole,1.68576,female,2012-01-03
+UGBT-E5-0672,ERS420757,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,72 months,31.77569,Ankole,1.68576,female,2012-01-03
+UGBT-E5-0673,ERS420758,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,48 months,31.77569,Ankole,1.68576,female,2012-01-03
+UGBT-E5-0674,ERS420759,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,72 months,31.77569,Ankole,1.68576,female,2012-01-03
+UGBT-E5-0675,ERS420760,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIGULYA,120 months,31.77569,Ankole,1.68576,female,2012-01-03
+UGBT-E5-0676,ERS420761,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,60 months,31.79751,Ankole,1.66295,female,2012-01-03
+UGBT-E5-0680,ERS420764,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,12 months,31.79751,Small East African Zebu,1.66295,female,2012-01-03
+UGBT-E5-0683,ERS420767,30523,Bos taurus x Bos indicus,Uganda,MASINDI,NYANGAHYA,18 months,31.70617,Small East African Zebu,1.65583,female,2012-01-03
+UGBT-E6-0716,ERS420770,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIKONDA,84 months,31.83417,Shorthorn Zebu,0.89346,female,2012-01-04
+UGBT-E6-0717,ERS420771,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIKONDA,72 months,31.83417,Shorthorn Zebu,0.89346,female,2012-01-04
+UGBT-E6-0718,ERS420772,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIKONDA,84 months,31.83417,Shorthorn Zebu,0.89346,female,2012-01-04
+UGBT-E6-0719,ERS420773,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIKONDA,120 months,31.83417,Shorthorn Zebu,0.89346,female,2012-01-04
+UGBT-E6-0721,ERS420775,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KIKONDA,120 months,31.74691,Shorthorn Zebu,0.80434,female,2012-01-04
+UGBT-E6-0722,ERS420776,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KYANKWANZI,84 months,31.74691,Shorthorn Zebu,0.80434,female,2012-01-04
+UGBT-E6-0723,ERS420777,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KYANKWANZI,72 months,31.74691,Shorthorn Zebu,0.80434,female,2012-01-04
+UGBT-E6-0725,ERS420779,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KYANKWANZI,84 months,31.74691,Shorthorn Zebu,0.80434,female,2012-01-04
+UGBT-E6-0736,ERS420780,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,120 months,31.71469,Ankole,0.96348,female,2012-01-05
+UGBT-E6-0737,ERS420781,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,96 months,31.71469,Ankole,0.96348,female,2012-01-05
+UGBT-E6-0738,ERS420782,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,96 months,31.71469,Ankole,0.96348,female,2012-01-05
+UGBT-E6-0739,ERS420783,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,108 months,31.71469,Ankole,0.96348,female,2012-01-05
+UGBT-E6-0740,ERS420784,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,96 months,31.71469,Ankole,0.96348,female,2012-01-05
+UGBT-E6-0741,ERS239072,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,48 months,31.54386,Shorthorn Zebu,1.04473,female,2012-01-05
+UGBT-E6-0742,ERS420785,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,108 months,31.54386,Shorthorn Zebu,1.04473,female,2012-01-05
+UGBT-E6-0744,ERS420787,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,84 months,31.54386,Ankole,1.04473,female,2012-01-05
+UGBT-E6-0745,ERS420788,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KIDONGO,48 months,31.54386,Ankole,1.04473,female,2012-01-05
+UGBT-E7-0766,ERS420789,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,72 months,31.37542,Small East African Zebu,0.56042,female,2012-01-06
+UGBT-E7-0767,ERS420790,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,96 months,31.37542,Ankole,0.56042,female,2012-01-06
+UGBT-E7-0768,ERS420791,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,180 months,31.37542,Ankole,0.56042,female,2012-01-06
+UGBT-E7-0769,ERS420792,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,120 months,31.37542,Ankole,0.56042,female,2012-01-06
+UGBT-E7-0770,ERS420793,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,72 months,31.37542,Small East African Zebu,0.56042,female,2012-01-06
+UGBT-E7-0771,ERS420794,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,96 months,31.90779,Ankole,0.39083,female,2012-01-06
+UGBT-E7-0773,ERS420796,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,120 months,31.90779,Ankole,0.39083,female,2012-01-06
+UGBT-E7-0774,ERS420797,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,60 months,31.90779,Ankole,0.39083,female,2012-01-06
+UGBT-E7-0775,ERS420798,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MUBENDE,48 months,31.90779,Ankole,0.39083,female,2012-01-06
+UGBT-E7-0777,ERS420800,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,24 months,31.46853,Ankole,0.50165,female,2012-01-06
+UGBT-E7-0778,ERS420801,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,24 months,31.46853,Ankole,0.50165,female,2012-01-06
+UGBT-E7-0779,ERS420802,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,60 months,31.46853,Ankole,0.50165,female,2012-01-06
+UGBT-E7-0784,ERS420807,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KAGOMA,36 months,31.89656,Ankole,0.37013,female,2012-01-06
+UGBT-E8-0189,ERS420809,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,48 months,31.57072,Nganda,-0.10603,female,2011-06-10
+UGBT-E8-0190,ERS420810,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,72 months,31.57072,Nganda,-0.10603,female,2011-06-10
+UGBT-E8-0191,ERS420811,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,72 months,31.57072,Nganda,-0.10603,female,2011-06-10
+UGBT-E8-0192,ERS420812,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,48 months,31.57072,Nganda,-0.10603,female,2011-06-10
+UGBT-E8-0194,ERS420814,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,36 months,31.56244,Nganda,-0.10428,female,2011-06-10
+UGBT-E8-0195,ERS420815,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,84 months,31.56244,Nganda,-0.10428,female,2011-06-10
+UGBT-E8-0196,ERS239086,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,48 months,31.56244,Nganda,-0.10428,female,2011-06-10
+UGBT-E8-0197,ERS420816,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,48 months,31.5632,Nganda,-0.1178,female,2011-06-10
+UGBT-E8-0198,ERS420817,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,72 months,31.5632,Nganda,-0.1178,female,2011-06-10
+UGBT-E8-0199,ERS420818,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,120 months,31.5632,Nganda,-0.1178,female,2011-06-10
+UGBT-E8-0200,ERS420819,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,36 months,31.5632,Nganda,-0.1178,female,2011-06-10
+UGBT-E8-0201,ERS420820,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,96 months,31.55935,Nganda,-0.14461,female,2011-06-10
+UGBT-E8-0202,ERS420821,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,72 months,31.55935,Nganda,-0.14461,female,2011-06-10
+UGBT-E8-0203,ERS420822,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,108 months,31.55935,Nganda,-0.14461,female,2011-06-10
+UGBT-E8-0206,ERS420825,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,120 months,31.5892,Nganda,-0.144,female,2011-06-10
+UGBT-E8-0207,ERS420826,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,36 months,31.5892,Nganda,-0.144,female,2011-06-10
+UGBT-E8-0208,ERS420827,30523,Bos taurus x Bos indicus,Uganda,MASAKA,BUKOMANSIMBI,48 months,31.5892,Nganda,-0.144,female,2011-06-10
+UGBT-F2-0306,ERS420829,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ARINYABI,84 months,32.00795,Shorthorn Zebu,3.46875,female,2011-07-11
+UGBT-F2-0307,ERS420830,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ARINYABI,108 months,32.00795,Shorthorn Zebu,3.46875,female,2011-07-11
+UGBT-F2-0308,ERS420831,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ARINYAPI,96 months,32.00795,Shorthorn Zebu,3.46875,female,2011-07-11
+UGBT-F2-0309,ERS420832,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,ARINYAPI,72 months,32.00795,Shorthorn Zebu,3.46875,female,2011-07-11
+UGBT-F2-0310,ERS420833,30523,Bos taurus x Bos indicus,Uganda,AMURU,ATIAK,84 months,32.06627,Shorthorn Zebu,3.32345,female,2011-07-11
+UGBT-F2-0311,ERS420834,30523,Bos taurus x Bos indicus,Uganda,AMURU,ATIAK,96 months,32.06627,Shorthorn Zebu,3.32345,female,2011-07-11
+UGBT-F2-0312,ERS420835,30523,Bos taurus x Bos indicus,Uganda,AMURU,ATIAK,144 months,32.06627,Shorthorn Zebu,3.32345,female,2011-07-11
+UGBT-F2-0313,ERS420836,30523,Bos taurus x Bos indicus,Uganda,AMURU,ATIAK,120 months,32.06627,Shorthorn Zebu,3.32345,female,2011-07-11
+UGBT-F2-0314,ERS420837,30523,Bos taurus x Bos indicus,Uganda,AMURU,ATIAK,120 months,32.12154,Shorthorn Zebu,3.26139,female,2011-07-11
+UGBT-F2-0316,ERS420839,30523,Bos taurus x Bos indicus,Uganda,AMURU,ATIAK,156 months,32.12154,Shorthorn Zebu,3.26139,female,2011-07-11
+UGBT-F2-0317,ERS420840,30523,Bos taurus x Bos indicus,Uganda,AMURU,ATIAK,84 months,32.12154,Shorthorn Zebu,3.26139,female,2011-07-11
+UGBT-F2-0318,ERS420841,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,BIBIA,120 months,32.15096,Shorthorn Zebu,3.47374,female,2011-07-11
+UGBT-F2-0319,ERS420842,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,BIBIA,120 months,32.15096,Shorthorn Zebu,3.47374,female,2011-07-11
+UGBT-F2-0320,ERS420843,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,BIBIA,144 months,32.15096,Shorthorn Zebu,3.47374,female,2011-07-11
+UGBT-F2-0321,ERS239079,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,BIBIA,96 months,32.15096,Shorthorn Zebu,3.47374,female,2011-07-11
+UGBT-F2-0323,ERS420845,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,BIBIA,156 months,32.01816,Shorthorn Zebu,3.48194,female,2011-07-11
+UGBT-F2-0324,ERS420846,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,BIBIA,120 months,32.01816,Shorthorn Zebu,3.48194,female,2011-07-11
+UGBT-F2-0325,ERS420847,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,BIBIA,84 months,32.01816,Shorthorn Zebu,3.48194,female,2011-07-11
+UGBT-F3-0507,ERS420849,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,24 months,32.3544,Shorthorn Zebu,2.84837,female,2011-08-06
+UGBT-F3-0509,ERS420851,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,60 months,32.3544,Shorthorn Zebu,2.84837,female,2011-08-06
+UGBT-F3-0510,ERS420852,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,36 months,32.33858,Shorthorn Zebu,2.81746,female,2011-08-06
+UGBT-F3-0511,ERS420853,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,12 months,32.33858,Shorthorn Zebu,2.81746,female,2011-08-06
+UGBT-F3-0512,ERS420854,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,12 months,32.33858,Ankole,2.81746,female,2011-08-06
+UGBT-F3-0513,ERS420855,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,24 months,32.33858,Ankole,2.81746,female,2011-08-06
+UGBT-F3-0514,ERS420856,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,36 months,32.35563,Shorthorn Zebu,2.8421,female,2011-08-06
+UGBT-F3-0515,ERS420857,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,36 months,32.35563,Shorthorn Zebu,2.8421,female,2011-08-06
+UGBT-F3-0517,ERS420859,30523,Bos taurus x Bos indicus,Uganda,GULU,UNYAMA,84 months,32.35563,Shorthorn Zebu,2.8421,female,2011-08-06
+UGBT-F3-0518,ERS420860,30523,Bos taurus x Bos indicus,Uganda,GULU,KORO,60 months,32.40484,Shorthorn Zebu,2.69135,female,2011-08-06
+UGBT-F3-0520,ERS420862,30523,Bos taurus x Bos indicus,Uganda,GULU,KORO,144 months,32.40484,Shorthorn Zebu,2.69135,female,2011-08-06
+UGBT-F3-0521,ERS420863,30523,Bos taurus x Bos indicus,Uganda,GULU,KORO,84 months,32.40484,Shorthorn Zebu,2.69135,female,2011-08-06
+UGBT-F3-0523,ERS239080,30523,Bos taurus x Bos indicus,Uganda,GULU,KORO,72 months,32.41719,Ankole,2.69807,female,2011-08-06
+UGBT-F4-0586,ERS420867,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,84 months,32.47449,Shorthorn Zebu,2.03819,female,2011-12-21
+UGBT-F4-0587,ERS420868,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,72 months,32.47449,Shorthorn Zebu,2.03819,female,2011-12-21
+UGBT-F4-0588,ERS420869,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,72 months,32.47449,Shorthorn Zebu,2.03819,female,2011-12-21
+UGBT-F4-0589,ERS420870,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,96 months,32.47449,Shorthorn Zebu,2.03819,female,2011-12-21
+UGBT-F4-0591,ERS420872,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,108 months,32.45554,Shorthorn Zebu,2.0073,female,2011-12-21
+UGBT-F4-0592,ERS420873,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,72 months,32.45554,Shorthorn Zebu,2.0073,female,2011-12-21
+UGBT-F4-0593,ERS420874,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,120 months,32.45554,Shorthorn Zebu,2.0073,female,2011-12-21
+UGBT-F4-0594,ERS420875,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,120 months,32.45554,Shorthorn Zebu,2.0073,female,2011-12-21
+UGBT-F4-0596,ERS420877,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,84 months,32.45656,Shorthorn Zebu,2.02553,female,2011-12-21
+UGBT-F4-0597,ERS420878,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,84 months,32.45656,Shorthorn Zebu,2.02553,female,2011-12-21
+UGBT-F4-0598,ERS420879,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,72 months,32.45656,Shorthorn Zebu,2.02553,female,2011-12-21
+UGBT-F4-0600,ERS420881,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,120 months,32.45656,Shorthorn Zebu,2.02553,female,2011-12-21
+UGBT-F4-0601,ERS420882,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,48 months,32.4485,Shorthorn Zebu,2.04715,female,2011-12-21
+UGBT-F4-0602,ERS420883,30523,Bos taurus x Bos indicus,Uganda,APAC,CHEGERE,96 months,32.4485,Shorthorn Zebu,2.04715,female,2011-12-21
+UGBT-F5-0541,ERS420887,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,60 months,32.09286,Ankole,1.67515,female,2011-12-19
+UGBT-F5-0542,ERS420888,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,96 months,32.09286,Ankole,1.67515,female,2011-12-19
+UGBT-F5-0543,ERS420889,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,84 months,32.09286,Ankole,1.67515,female,2011-12-19
+UGBT-F5-0544,ERS420890,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,36 months,32.09286,Ankole,1.67515,female,2011-12-19
+UGBT-F5-0545,ERS420891,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,60 months,32.09286,Ankole,1.67515,female,2011-12-19
+UGBT-F5-0646,ERS420892,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,72 months,32.09286,Small East African Zebu,1.67515,female,2012-01-02
+UGBT-F5-0648,ERS420894,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,24 months,32.09286,Ankole,1.67515,female,2012-01-02
+UGBT-F5-0649,ERS420895,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,24 months,32.09286,Ankole,1.67515,female,2012-01-02
+UGBT-F5-0650,ERS420896,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,36 months,32.09286,Ankole,1.67515,female,2012-01-02
+UGBT-F5-0651,ERS420897,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,48 months,32.10437,Ankole,1.43451,female,2012-01-02
+UGBT-F5-0652,ERS420898,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,96 months,32.10437,Ankole,1.43451,female,2012-01-02
+UGBT-F5-0653,ERS420899,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,60 months,32.10437,Ankole,1.43451,female,2012-01-02
+UGBT-F5-0654,ERS420900,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,96 months,32.10437,Ankole,1.43451,female,2012-01-02
+UGBT-F5-0655,ERS420901,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,96 months,32.10437,Ankole,1.43451,female,2012-01-02
+UGBT-F5-0656,ERS420902,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,84 months,32.09648,Ankole,1.39733,female,2012-01-02
+UGBT-F5-0657,ERS420903,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,24 months,32.09648,Ankole,1.39733,female,2012-01-02
+UGBT-F5-0658,ERS420904,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,18 months,32.09648,Ankole,1.39733,female,2012-01-02
+UGBT-F5-0660,ERS420906,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,48 months,32.09648,Ankole,1.39733,female,2012-01-02
+UGBT-F5-0661,ERS420907,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,72 months,32.11321,Ankole,1.40892,female,2012-01-02
+UGBT-F5-0662,ERS420908,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,18 months,32.11321,Ankole,1.40892,female,2012-01-02
+UGBT-F5-0663,ERS420909,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,48 months,32.11321,Ankole,1.40892,female,2012-01-02
+UGBT-F5-0665,ERS420911,30523,Bos taurus x Bos indicus,Uganda,MASINDI,KIMENGO,12 months,32.11321,Ankole,1.40892,female,2012-01-02
+UGBT-F6-0526,ERS239087,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,60 months,32.4606,Ankole Zebu cross,1.14217,female,2011-12-19
+UGBT-F6-0528,ERS420913,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,48 months,32.4606,Ankole,1.14217,female,2011-12-19
+UGBT-F6-0529,ERS420914,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,36 months,32.4606,Ankole,1.14217,female,2011-12-19
+UGBT-F6-0530,ERS420915,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,72 months,32.4606,Ankole,1.14217,female,2011-12-19
+UGBT-F6-0532,ERS420917,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,84 months,32.46521,Ankole,1.11216,female,2011-12-19
+UGBT-F6-0533,ERS420918,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,84 months,32.46521,Ankole,1.11216,female,2011-12-19
+UGBT-F6-0534,ERS420919,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,96 months,32.46521,Ankole,1.11216,female,2011-12-19
+UGBT-F6-0535,ERS420920,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,24 months,32.46521,Ankole,1.11216,female,2011-12-19
+UGBT-F6-0536,ERS420921,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,48 months,32.46764,Ankole,1.13184,female,2011-12-19
+UGBT-F6-0537,ERS420922,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,36 months,32.46764,Ankole,1.13184,female,2011-12-19
+UGBT-F6-0538,ERS420923,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,96 months,32.46764,Ankole,1.13184,female,2011-12-19
+UGBT-F6-0539,ERS420924,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,60 months,32.46764,Ankole,1.13184,female,2011-12-19
+UGBT-F6-0540,ERS420925,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,KAKOOGE,96 months,32.46764,Ankole,1.13184,female,2011-12-19
+UGBT-F7-0786,ERS420926,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,96 months,32.59753,Nganda,0.4195,female,2012-01-11
+UGBT-F7-0787,ERS420927,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,60 months,32.59753,Nganda,0.4195,female,2012-01-11
+UGBT-F7-0788,ERS420928,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,84 months,32.59753,Nganda,0.4195,female,2012-01-11
+UGBT-F7-0789,ERS420929,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,60 months,32.59753,Nganda,0.4195,female,2012-01-11
+UGBT-F7-0790,ERS420930,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,84 months,32.59753,Nganda,0.4195,female,2012-01-11
+UGBT-F7-0792,ERS420932,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,96 months,32.6286,Nganda,0.52169,female,2012-01-11
+UGBT-F7-0793,ERS420933,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,84 months,32.6286,Nganda,0.52169,female,2012-01-11
+UGBT-F7-0794,ERS420934,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,48 months,32.6286,Nganda,0.52169,female,2012-01-11
+UGBT-F7-0795,ERS420935,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,96 months,32.6286,Nganda,0.52169,female,2012-01-11
+UGBT-F7-0796,ERS420936,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,96 months,32.50849,Nganda,0.39231,female,2012-01-11
+UGBT-F7-0797,ERS420937,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,72 months,32.50849,Nganda,0.39231,female,2012-01-11
+UGBT-F7-0798,ERS420938,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,48 months,32.50849,Nganda,0.39231,female,2012-01-11
+UGBT-F7-0800,ERS420940,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,108 months,32.50849,Nganda,0.39231,female,2012-01-11
+UGBT-F7-0801,ERS420941,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,96 months,32.58998,Nganda,0.49337,female,2012-01-11
+UGBT-F7-0802,ERS420942,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,96 months,32.58998,Nganda,0.49337,female,2012-01-11
+UGBT-F7-0803,ERS420943,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,72 months,32.58998,Nganda,0.49337,female,2012-01-11
+UGBT-F7-0804,ERS420944,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,48 months,32.58998,Nganda,0.49337,female,2012-01-11
+UGBT-F7-0805,ERS420945,30523,Bos taurus x Bos indicus,Uganda,KAMPALA,BUSUKUMA,36 months,32.58998,Nganda,0.49337,female,2012-01-11
+UGBT-G2-0434,ERS420946,30523,Bos taurus x Bos indicus,Uganda,LAMWO,MADI OPEI,108 months,33.05016,Shorthorn Zebu,3.47267,female,2011-08-01
+UGBT-G2-0435,ERS420947,30523,Bos taurus x Bos indicus,Uganda,LAMWO,MADI OPEI,72 months,33.05016,Shorthorn Zebu,3.47267,female,2011-08-02
+UGBT-G2-0436,ERS420948,30523,Bos taurus x Bos indicus,Uganda,LAMWO,MADI OPEI,60 months,33.05016,Shorthorn Zebu,3.47267,female,2011-08-02
+UGBT-G2-0438,ERS420950,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,72 months,33.06682,Shorthorn Zebu,3.51463,female,2011-08-02
+UGBT-G2-0440,ERS420952,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,12 months,33.06682,Shorthorn Zebu,3.51463,female,2011-08-02
+UGBT-G2-0441,ERS420953,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,72 months,33.06682,Shorthorn Zebu,3.51463,female,2011-08-02
+UGBT-G2-0442,ERS420954,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,24 months,33.06202,Shorthorn Zebu,3.49713,female,2011-08-02
+UGBT-G2-0444,ERS420956,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,72 months,33.06202,Shorthorn Zebu,3.49713,female,2011-08-02
+UGBT-G2-0448,ERS420959,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,96 months,32.94359,Shorthorn Zebu,3.35815,female,2011-08-02
+UGBT-G2-0449,ERS420960,30523,Bos taurus x Bos indicus,Uganda,KITGUM,MUCWIN,12 months,32.94359,Shorthorn Zebu,3.35815,female,2011-08-02
+UGBT-G3-0487,ERS420962,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,36 months,33.08043,Shorthorn Zebu,2.94634,female,2011-08-05
+UGBT-G3-0488,ERS420963,30523,Bos taurus x Bos indicus,Uganda,PADER,OGOM,72 months,33.08043,Shorthorn Zebu,2.94634,female,2011-08-05
+UGBT-G3-0489,ERS420964,30523,Bos taurus x Bos indicus,Uganda,PADER,OGOM,36 months,33.08043,Shorthorn Zebu,2.94634,female,2011-08-05
+UGBT-G3-0491,ERS420966,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,36 months,33.07119,Shorthorn Zebu,3.0387,female,2011-08-05
+UGBT-G3-0492,ERS420967,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,96 months,33.07119,Shorthorn Zebu,3.0387,female,2011-08-05
+UGBT-G3-0493,ERS420968,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,72 months,33.07119,Shorthorn Zebu,3.0387,female,2011-08-05
+UGBT-G3-0494,ERS420969,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,96 months,33.07119,Shorthorn Zebu,3.0387,female,2011-08-05
+UGBT-G3-0496,ERS420971,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,96 months,33.07119,Shorthorn Zebu,3.0387,female,2011-08-05
+UGBT-G3-0497,ERS420972,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,24 months,33.07119,Shorthorn Zebu,3.0387,female,2011-08-05
+UGBT-G3-0498,ERS420973,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,36 months,33.00944,Shorthorn Zebu,3.01221,female,2011-08-05
+UGBT-G3-0499,ERS420974,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,96 months,33.00944,Shorthorn Zebu,3.01221,female,2011-08-05
+UGBT-G3-0500,ERS420975,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,48 months,33.00944,Shorthorn Zebu,3.01221,female,2011-08-05
+UGBT-G3-0504,ERS420979,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,96 months,33.06567,Shorthorn Zebu,2.98782,female,2011-08-05
+UGBT-G3-0505,ERS420980,30523,Bos taurus x Bos indicus,Uganda,PADER,PAJULE,72 months,33.06567,Shorthorn Zebu,2.98782,female,2011-08-05
+UGBT-G4-0566,ERS420981,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,72 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0567,ERS420982,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,72 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0568,ERS239076,30523,Bos taurus x Bos indicus,Uganda,Apac,Aduku,84 months,32.71893,East African Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0569,ERS420983,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,96 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0570,ERS420984,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,72 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0572,ERS420986,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,84 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0573,ERS420987,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,72 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0574,ERS420988,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,60 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0575,ERS420989,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,96 months,32.71893,Shorthorn Zebu,2.00925,female,2011-12-20
+UGBT-G4-0576,ERS420990,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,36 months,32.78894,Shorthorn Zebu,2.0024,female,2011-12-20
+UGBT-G4-0577,ERS420991,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,96 months,32.78894,Shorthorn Zebu,2.0024,female,2011-12-20
+UGBT-G4-0578,ERS420992,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,72 months,32.78894,Shorthorn Zebu,2.0024,female,2011-12-20
+UGBT-G4-0579,ERS420993,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,72 months,32.78894,Shorthorn Zebu,2.0024,female,2011-12-20
+UGBT-G4-0580,ERS420994,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,72 months,32.78894,Shorthorn Zebu,2.0024,female,2011-12-20
+UGBT-G4-0582,ERS420996,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,84 months,32.81759,Shorthorn Zebu,2.01242,female,2011-12-20
+UGBT-G4-0583,ERS420997,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,108 months,32.81759,Shorthorn Zebu,2.01242,female,2011-12-20
+UGBT-G4-0584,ERS420998,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,36 months,32.81759,Shorthorn Zebu,2.01242,female,2011-12-20
+UGBT-G4-0585,ERS420999,30523,Bos taurus x Bos indicus,Uganda,APAC,ADUKU,84 months,32.81759,Shorthorn Zebu,2.01242,female,2011-12-20
+UGBT-G5-0606,ERS421000,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,96 months,33.02948,Ankole,1.68033,female,2011-12-22
+UGBT-G5-0607,ERS421001,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,72 months,33.02948,Ankole,1.68033,female,2011-12-22
+UGBT-G5-0609,ERS421003,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,72 months,33.02948,Shorthorn Zebu,1.68033,female,2011-12-22
+UGBT-G5-0610,ERS421004,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,96 months,33.02948,Ankole,1.68033,female,2011-12-22
+UGBT-G5-0611,ERS421005,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,60 months,33.07471,Shorthorn Zebu,1.68619,female,2011-12-22
+UGBT-G5-0612,ERS421006,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,96 months,33.07471,Ankole,1.68619,female,2011-12-22
+UGBT-G5-0613,ERS421007,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,84 months,33.07471,Ankole,1.68619,female,2011-12-22
+UGBT-G5-0614,ERS421008,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,60 months,33.07471,Small East African Zebu,1.68619,female,2011-12-22
+UGBT-G5-0615,ERS421009,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,OCERO,72 months,33.07471,Shorthorn Zebu,1.68619,female,2011-12-22
+UGBT-G5-0616,ERS421010,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,48 months,33.08713,Ankole,1.69651,female,2011-12-22
+UGBT-G5-0617,ERS239067,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,84 months,33.08713,Ankole,1.69651,female,2011-12-22
+UGBT-G5-0618,ERS421011,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,60 months,33.08713,Ankole,1.69651,female,2011-12-22
+UGBT-G5-0619,ERS421012,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,72 months,33.08713,Ankole,1.69651,female,2011-12-22
+UGBT-G5-0620,ERS421013,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,84 months,33.08713,Ankole,1.69651,female,2011-12-22
+UGBT-G5-0621,ERS421014,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,12 months,32.86412,Small East African Zebu,1.71331,female,2011-12-22
+UGBT-G5-0622,ERS421015,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,24 months,32.86412,Small East African Zebu,1.71331,female,2011-12-22
+UGBT-G5-0623,ERS421016,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,96 months,32.86412,Small East African Zebu,1.71331,female,2011-12-22
+UGBT-G5-0625,ERS421018,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KOBULUBULU,72 months,32.86412,Ankole,1.71331,female,2011-12-22
+UGBT-G6-0546,ERS421019,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,108 months,32.77333,Small East African Zebu,1.19425,female,2012-01-10
+UGBT-G6-0547,ERS421020,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,60 months,32.77333,Small East African Zebu,1.19425,female,2012-01-10
+UGBT-G6-0548,ERS421021,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,120 months,32.77333,Small East African Zebu,1.19425,female,2012-01-10
+UGBT-G6-0549,ERS421022,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,96 months,32.77333,Small East African Zebu,1.19425,female,2012-01-10
+UGBT-G6-0551,ERS421024,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,72 months,32.77155,Small East African Zebu,1.10034,female,2012-01-10
+UGBT-G6-0552,ERS239077,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,72 months,32.77155,Small East African Zebu,1.10034,female,2012-01-10
+UGBT-G6-0553,ERS421025,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,84 months,32.77155,Small East African Zebu,1.10034,female,2012-01-10
+UGBT-G6-0554,ERS421026,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,96 months,32.77155,Small East African Zebu,1.10034,female,2012-01-10
+UGBT-G6-0555,ERS421027,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,72 months,32.77155,Small East African Zebu,1.10034,female,2012-01-10
+UGBT-G6-0556,ERS421028,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,60 months,32.73141,Small East African Zebu,1.10025,female,2012-01-10
+UGBT-G6-0558,ERS421030,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,120 months,32.73141,Small East African Zebu,1.10025,female,2012-01-10
+UGBT-G6-0559,ERS421031,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,60 months,32.73141,Small East African Zebu,1.10025,female,2012-01-10
+UGBT-G6-0560,ERS421032,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,72 months,32.73141,Small East African Zebu,1.10025,female,2012-01-10
+UGBT-G6-0561,ERS421033,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,72 months,32.76132,Ankole,1.18822,female,2012-01-10
+UGBT-G6-0563,ERS421035,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,60 months,32.76132,Small East African Zebu,1.18822,female,2012-01-10
+UGBT-G6-0564,ERS421036,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,72 months,32.76132,Small East African Zebu,1.18822,female,2012-01-10
+UGBT-G6-0565,ERS421037,30523,Bos taurus x Bos indicus,Uganda,NAKASONGOLA,BAMUGOLODE,48 months,32.76132,Small East African Zebu,1.18822,female,2012-01-10
+UGBT-G7-0029,ERS421038,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,60 months,32.99828,Ankole,0.37269,female,2011-04-13
+UGBT-G7-0030,ERS421039,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,84 months,32.99828,Ankole,0.37269,female,2011-04-13
+UGBT-G7-0031,ERS421040,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,180 months,32.99828,Ankole,0.37269,female,2011-04-13
+UGBT-G7-0032,ERS421041,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,120 months,32.99828,Ankole,0.37269,female,2011-04-13
+UGBT-G7-0033,ERS421042,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,72 months,32.97924,Ankole,0.19149,female,2011-04-13
+UGBT-G7-0034,ERS239081,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,36 months,32.97924,Ankole,0.19149,female,2011-04-13
+UGBT-G7-0035,ERS421043,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,60 months,32.97924,Ankole,0.19149,female,2011-04-13
+UGBT-G7-0036,ERS421044,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,24 months,32.97924,Ankole,0.19149,female,2011-04-13
+UGBT-G7-0038,ERS421046,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,144 months,32.97924,Ankole,0.19149,female,2011-04-13
+UGBT-G7-0039,ERS421047,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,72 months,32.97924,Ankole,0.19149,female,2011-04-13
+UGBT-G7-0040,ERS421048,30523,Bos taurus x Bos indicus,Uganda,NAJJEMBE,NAJJEMBE,96 months,32.97924,Ankole,0.19149,female,2011-04-13
+UGBT-G7-0041,ERS421049,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUTAGAYA SC,120 months,33.12765,Ankole,0.63145,female,2011-04-14
+UGBT-G7-0042,ERS421050,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUTAGAYA SC,36 months,33.12765,Ankole,0.63145,female,2011-04-14
+UGBT-G7-0043,ERS421051,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUTAGAYA SC,96 months,33.12765,Ankole,0.63145,female,2011-04-14
+UGBT-G7-0044,ERS421052,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUTAGAYA SC,48 months,33.12765,Ankole,0.63145,female,2011-04-14
+UGBT-G7-0046,ERS421054,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUWENGE SC,168 months,33.16823,Shorthorn Zebu,0.64643,female,2011-04-15
+UGBT-G7-0047,ERS421055,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUWENGE SC,192 months,33.16823,Shorthorn Zebu,0.64643,female,2011-04-15
+UGBT-G7-0048,ERS421056,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUWENGE SC,30 months,33.16823,Ankole,0.64643,female,2011-04-15
+UGBT-G7-0051,ERS421059,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUTAGAYA SC,96 months,33.12106,Ankole,0.61905,female,2011-04-15
+UGBT-H2-0418,ERS421060,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,72 months,33.46838,Ankole Zebu cross,3.40943,female,2011-08-01
+UGBT-H2-0420,ERS421062,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,24 months,33.46838,Ankole Zebu cross,3.40943,female,2011-08-01
+UGBT-H2-0421,ERS421063,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,60 months,33.46838,Ankole Zebu cross,3.40943,female,2011-08-01
+UGBT-H2-0425,ERS421067,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,24 months,33.48622,Shorthorn Zebu,3.55361,female,2011-08-01
+UGBT-H2-0427,ERS421069,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,84 months,33.48641,Ankole Zebu cross,3.35978,female,2011-08-01
+UGBT-H2-0431,ERS421072,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,36 months,33.47214,Ankole Zebu cross,3.39326,female,2011-08-01
+UGBT-H2-0432,ERS421073,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,36 months,33.47214,Ankole Zebu cross,3.39326,female,2011-08-01
+UGBT-H2-0433,ERS421074,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,24 months,33.47214,Shorthorn Zebu,3.39326,female,2011-08-01
+UGBT-H3-0450,ERS421075,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,120 months,33.656794,Shorthorn Zebu,2.70009,female,2011-08-02
+UGBT-H3-0451,ERS421076,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,168 months,33.656794,Shorthorn Zebu,2.70009,female,2011-08-03
+UGBT-H3-0454,ERS421079,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,72 months,33.75225,Shorthorn Zebu,2.82619,female,2011-08-03
+UGBT-H3-0460,ERS421085,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,144 months,33.73854,Shorthorn Zebu,2.81939,female,2011-08-03
+UGBT-H3-0463,ERS421088,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,36 months,33.76822,Shorthorn Zebu,2.82788,female,2011-08-03
+UGBT-H3-0464,ERS421089,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,84 months,33.76822,Shorthorn Zebu,2.82788,female,2011-08-03
+UGBT-H3-0465,ERS421090,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,36 months,33.76822,Shorthorn Zebu,2.82788,female,2011-08-03
+UGBT-H4-0859,ERS421092,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,24 months,33.78317,East African Shorthorn Zebu,2.36653,female,2012-01-24
+UGBT-H4-0860,ERS421093,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,48 months,33.78317,East African Shorthorn Zebu,2.36653,female,2012-01-24
+UGBT-H4-0862,ERS421095,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,60 months,33.78317,East African Shorthorn Zebu,2.36653,female,2012-01-24
+UGBT-H4-0864,ERS421097,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,72 months,33.47195,East African Shorthorn Zebu,2.14746,female,2012-01-24
+UGBT-H4-0865,ERS421098,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,72 months,33.47195,East African Shorthorn Zebu,2.14746,female,2012-01-24
+UGBT-H4-0871,ERS421104,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,84 months,33.67712,East African Shorthorn Zebu,2.28745,female,2012-01-24
+UGBT-H4-0872,ERS421105,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,120 months,33.67712,East African Shorthorn Zebu,2.28745,female,2012-01-24
+UGBT-H4-0876,ERS421109,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,60 months,33.52712,East African Shorthorn Zebu,2.47919,female,2012-01-24
+UGBT-H5-0626,ERS421111,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,84 months,33.30552,Ankole,1.73401,female,2011-12-23
+UGBT-H5-0627,ERS421112,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,96 months,33.30552,Ankole,1.73401,female,2011-12-23
+UGBT-H5-0628,ERS421113,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,96 months,33.30552,Shorthorn Zebu,1.73401,female,2011-12-23
+UGBT-H5-0629,ERS421114,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,120 months,33.30552,Shorthorn Zebu,1.73401,female,2011-12-23
+UGBT-H5-0630,ERS421115,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,108 months,33.30552,Shorthorn Zebu,1.73401,female,2011-12-23
+UGBT-H5-0631,ERS421116,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,96 months,33.27573,Shorthorn Zebu,1.71953,female,2011-12-23
+UGBT-H5-0632,ERS239082,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,96 months,33.27573,Shorthorn Zebu,1.71953,female,2011-12-23
+UGBT-H5-0633,ERS421117,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,84 months,33.27573,Shorthorn Zebu,1.71953,female,2011-12-23
+UGBT-H5-0635,ERS421119,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,BULULU,84 months,33.27573,Ankole,1.71953,female,2011-12-23
+UGBT-H5-0636,ERS421120,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,72 months,33.29782,Ankole,1.726,female,2011-12-23
+UGBT-H5-0637,ERS421121,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,72 months,33.29782,Shorthorn Zebu,1.726,female,2011-12-23
+UGBT-H5-0638,ERS421122,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,108 months,33.29782,Shorthorn Zebu,1.726,female,2011-12-23
+UGBT-H5-0639,ERS421123,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,96 months,33.29782,Shorthorn Zebu,1.726,female,2011-12-23
+UGBT-H5-0640,ERS421124,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,96 months,33.29782,Ankole,1.726,female,2011-12-23
+UGBT-H5-0643,ERS421127,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,36 months,33.31931,Ankole,1.75568,female,2011-12-23
+UGBT-H5-0644,ERS421128,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,36 months,33.31931,Small East African Zebu,1.75568,female,2011-12-23
+UGBT-H5-0645,ERS421129,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,24 months,33.31931,Ankole,1.75568,female,2011-12-23
+UGBT-H6-0026,ERS421131,30523,Bos taurus x Bos indicus,Uganda,BUTALEJA,BUSABA,72 months,33.81429,Ankole,0.88453,female,2011-03-11
+UGBT-H6-0027,ERS421132,30523,Bos taurus x Bos indicus,Uganda,BUTALEJA,BUSABA,48 months,33.81429,Ankole,0.88453,female,2011-03-11
+UGBT-H6-0028,ERS421133,30523,Bos taurus x Bos indicus,Uganda,BUTALEJA,BUSABA,120 months,33.81429,Ankole,0.88453,female,2011-03-11
+UGBT-H6-0806,ERS421134,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,96 months,33.68494,East African Shorthorn Zebu,0.83443,female,2012-01-18
+UGBT-H6-0807,ERS421135,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,84 months,33.68494,East African Shorthorn Zebu,0.83443,female,2012-01-18
+UGBT-H6-0808,ERS421136,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,108 months,33.68494,East African Shorthorn Zebu,0.83443,female,2012-01-18
+UGBT-H6-0809,ERS421137,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,120 months,33.68494,East African Shorthorn Zebu,0.83443,female,2012-01-18
+UGBT-H6-0810,ERS421138,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKALOKWE,24 months,33.68494,East African Shorthorn Zebu,0.83443,female,2012-01-18
+UGBT-H6-0816,ERS421144,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKYERE,72 months,33.73819,East African Shorthorn Zebu,0.78147,female,2012-01-18
+UGBT-H6-0818,ERS421146,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKYERE,84 months,33.73819,East African Shorthorn Zebu,0.78147,female,2012-01-18
+UGBT-H6-0819,ERS421147,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKYERE,180 months,33.73819,East African Shorthorn Zebu,0.78147,female,2012-01-18
+UGBT-H6-0821,ERS421149,30523,Bos taurus x Bos indicus,Uganda,NAMUTUMBA,NAKYERE,156 months,33.73819,East African Shorthorn Zebu,0.78147,female,2012-01-18
+UGBT-H7-0053,ERS421151,30523,Bos taurus x Bos indicus,Uganda,JINJA,NAMUNGALWE SC,72 months,33.47697,Ankole,0.71483,female,2011-04-15
+UGBT-H7-0054,ERS421152,30523,Bos taurus x Bos indicus,Uganda,JINJA,NAMUNGALWE SC,84 months,33.47697,Ankole,0.71483,female,2011-04-15
+UGBT-H7-0055,ERS421153,30523,Bos taurus x Bos indicus,Uganda,JINJA,NAMUNGALWE SC,36 months,33.47697,Ankole,0.71483,female,2011-04-15
+UGBT-H7-0056,ERS421154,30523,Bos taurus x Bos indicus,Uganda,JINJA,BULAMAGI SC,96 months,33.42077,Shorthorn Zebu,0.65176,female,2011-04-15
+UGBT-H7-0059,ERS421157,30523,Bos taurus x Bos indicus,Uganda,JINJA,BULAMAGI SC,120 months,33.42077,Shorthorn Zebu,0.65176,female,2011-04-15
+UGBT-H7-0060,ERS421158,30523,Bos taurus x Bos indicus,Uganda,JINJA,MPUGWE SC,60 months,33.5566,Shorthorn Zebu,0.44152,female,2011-04-16
+UGBT-H7-0061,ERS421159,30523,Bos taurus x Bos indicus,Uganda,JINJA,MPUGWE SC,60 months,33.5566,Shorthorn Zebu,0.44152,female,2011-04-16
+UGBT-H7-0065,ERS421163,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUSAKIRA SC,60 months,33.54272,Shorthorn Zebu,0.39113,female,2011-04-16
+UGBT-H7-0066,ERS421164,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUSAKIRA SC,60 months,33.54272,Shorthorn Zebu,0.39113,female,2011-04-16
+UGBT-H7-0067,ERS421165,30523,Bos taurus x Bos indicus,Uganda,JINJA,BUSAKIRA SC,96 months,33.54272,Shorthorn Zebu,0.39113,female,2011-04-16
+UGBT-H7-0069,ERS421167,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,BUKOLI,96 months,33.68813,Shorthorn Zebu,0.47944,female,2011-04-16
+UGBT-H7-0074,ERS421172,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,BUKOLI,36 months,33.68091,Ankole,0.52474,female,2011-04-17
+UGBT-H7-0075,ERS421173,30523,Bos taurus x Bos indicus,Uganda,BUGIRI,BUKOLI,48 months,33.68091,Ankole,0.52474,female,2011-04-17
+UGBT-I3-0466,ERS421174,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,84 months,34.12168,Shorthorn Zebu,2.91843,female,2011-08-04
+UGBT-I3-0467,ERS421175,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,34.12168,Shorthorn Zebu,2.91843,female,2011-08-03
+UGBT-I3-0468,ERS421176,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,34.12168,Shorthorn Zebu,2.91843,female,2011-08-03
+UGBT-I3-0470,ERS421178,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,34.10782,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0471,ERS421179,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,34.10782,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0472,ERS421180,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,108 months,34.10782,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0473,ERS421181,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,34.10782,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0474,ERS421182,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,96 months,33.94573,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0476,ERS421184,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,84 months,33.94573,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0477,ERS239068,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,60 months,33.94573,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0478,ERS421185,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,33.94573,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0479,ERS421186,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,72 months,33.94573,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0480,ERS421187,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,84 months,33.94573,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0481,ERS421188,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,84 months,33.94573,Shorthorn Zebu,2.99759,female,2011-08-04
+UGBT-I3-0482,ERS421189,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,96 months,33.99299,Shorthorn Zebu,2.99355,female,2011-08-04
+UGBT-I3-0483,ERS421190,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,132 months,33.99299,Shorthorn Zebu,2.99355,female,2011-08-04
+UGBT-I3-0485,ERS421192,30523,Bos taurus x Bos indicus,Uganda,KOTIDO,PANYANGARA,60 months,33.99299,Shorthorn Zebu,2.99355,female,2011-08-04
+UGBT-I4-0878,ERS421193,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,84 months,33.96431,East African Shorthorn Zebu,2.12029,female,2012-01-25
+UGBT-I4-0879,ERS421194,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,72 months,33.96431,East African Shorthorn Zebu,2.12029,female,2012-01-25
+UGBT-I4-0880,ERS421195,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,48 months,33.96431,East African Shorthorn Zebu,2.12029,female,2012-01-25
+UGBT-I4-0881,ERS421196,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,96 months,33.96431,East African Shorthorn Zebu,2.12029,female,2012-01-25
+UGBT-I4-0884,ERS421199,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,120 months,33.97197,East African Shorthorn Zebu,2.14746,female,2012-01-25
+UGBT-I4-0885,ERS421200,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,84 months,33.97197,East African Shorthorn Zebu,2.14746,female,2012-01-25
+UGBT-I4-0886,ERS421201,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,36 months,33.97197,East African Shorthorn Zebu,2.14746,female,2012-01-25
+UGBT-I4-0889,ERS421204,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,72 months,34.28161,East African Shorthorn Zebu,2.49981,female,2012-01-25
+UGBT-I4-0890,ERS421205,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,48 months,34.28161,East African Shorthorn Zebu,2.49981,female,2012-01-25
+UGBT-I4-0891,ERS421206,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,24 months,34.28161,East African Shorthorn Zebu,2.49981,female,2012-01-25
+UGBT-I4-0892,ERS421207,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,24 months,34.28161,East African Shorthorn Zebu,2.49981,female,2012-01-25
+UGBT-I4-0893,ERS421208,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,36 months,34.19487,East African Shorthorn Zebu,2.51121,female,2012-01-25
+UGBT-I4-0894,ERS421209,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,120 months,34.19487,East African Shorthorn Zebu,2.51121,female,2012-01-25
+UGBT-I4-0895,ERS421210,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,120 months,34.19487,East African Shorthorn Zebu,2.51121,female,2012-01-25
+UGBT-I4-0897,ERS421212,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,84 months,34.19487,East African Shorthorn Zebu,2.51121,female,2012-01-25
+UGBT-I5-0838,ERS421213,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,120 months,33.96589,East African Shorthorn Zebu,1.98951,female,2012-01-23
+UGBT-I5-0839,ERS421214,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,96 months,33.96589,East African Shorthorn Zebu,1.98951,female,2012-01-23
+UGBT-I5-0840,ERS421215,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,84 months,33.96589,East African Shorthorn Zebu,1.98951,female,2012-01-23
+UGBT-I5-0841,ERS421216,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,72 months,33.96589,East African Shorthorn Zebu,1.98951,female,2012-01-23
+UGBT-I5-0842,ERS421217,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,96 months,33.96589,East African Shorthorn Zebu,1.98951,female,2012-01-23
+UGBT-I5-0843,ERS421218,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,96 months,33.95532,East African Shorthorn Zebu,1.91297,female,2012-01-23
+UGBT-I5-0844,ERS421219,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,84 months,33.95532,East African Shorthorn Zebu,1.91297,female,2012-01-23
+UGBT-I5-0845,ERS421220,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,96 months,33.95532,East African Shorthorn Zebu,1.91297,female,2012-01-23
+UGBT-I5-0846,ERS421221,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,72 months,33.95532,East African Shorthorn Zebu,1.91297,female,2012-01-23
+UGBT-I5-0847,ERS421222,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,84 months,33.95532,East African Shorthorn Zebu,1.91297,female,2012-01-23
+UGBT-I5-0849,ERS421224,30523,Bos taurus x Bos indicus,Uganda,Katakwi,Usuk,24 months,34.04003,East African Shorthorn Zebu,1.91401,female,2012-01-23
+UGBT-I5-0850,ERS421225,30523,Bos taurus x Bos indicus,Uganda,Katakwi,Usuk,96 months,34.04003,East African Shorthorn Zebu,1.91401,female,2012-01-23
+UGBT-I5-0851,ERS421226,30523,Bos taurus x Bos indicus,Uganda,Katakwi,Usuk,24 months,34.04003,East African Shorthorn Zebu,1.91401,female,2012-01-23
+UGBT-I5-0852,ERS421227,30523,Bos taurus x Bos indicus,Uganda,Katakwi,Usuk,24 months,34.04003,East African Shorthorn Zebu,1.91401,female,2012-01-23
+UGBT-I5-0853,ERS421228,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,84 months,34.00168,East African Shorthorn Zebu,1.53411,female,2012-01-23
+UGBT-I5-0854,ERS421229,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,84 months,34.00168,East African Shorthorn Zebu,1.53411,female,2012-01-23
+UGBT-I5-0855,ERS421230,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,24 months,34.00168,East African Shorthorn Zebu,1.53411,female,2012-01-23
+UGBT-I6-0021,ERS421233,30523,Bos taurus x Bos indicus,Uganda,Butaleja TC,Butaleja,,33.96317,East African Shorthorn Zebu,0.94494,female,2011-03-11
+UGBT-I6-0022,ERS421234,30523,Bos taurus x Bos indicus,Uganda,BUTALEJA,BUTALEJA TC,84 months,33.96317,East African Shorthorn Zebu,0.94494,female,2011-03-11
+UGBT-I6-0024,ERS421236,30523,Bos taurus x Bos indicus,Uganda,BUTALEJA,BUTALEJA TC,60 months,33.96317,East African Shorthorn Zebu,0.94494,female,2011-03-11
+UGBT-I6-0822,ERS421237,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,60 months,33.99393,East African Shorthorn Zebu,1.03371,female,2012-01-18
+UGBT-I6-0824,ERS421239,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,36 months,33.99393,East African Shorthorn Zebu,1.03371,female,2012-01-18
+UGBT-I6-0825,ERS421240,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,120 months,33.99393,East African Shorthorn Zebu,1.03371,female,2012-01-18
+UGBT-I6-0826,ERS421241,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,144 months,33.99393,East African Shorthorn Zebu,1.03371,female,2012-01-18
+UGBT-I6-0828,ERS421243,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,120 months,33.95186,East African Shorthorn Zebu,1.01682,female,2012-01-18
+UGBT-I6-0830,ERS421245,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,144 months,33.95186,East African Shorthorn Zebu,1.01682,female,2012-01-18
+UGBT-I6-0831,ERS421246,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,36 months,33.95186,East African Shorthorn Zebu,1.01682,female,2012-01-18
+UGBT-I6-0833,ERS421248,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,NAMIREMBE,120 months,33.91879,East African Shorthorn Zebu,1.01081,female,2012-01-18
+UGBT-I6-0834,ERS421249,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,NAMIREMBE,96 months,33.91879,East African Shorthorn Zebu,1.01081,female,2012-01-18
+UGBT-I6-0835,ERS421250,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,NAMIREMBE,180 months,33.91879,East African Shorthorn Zebu,1.01081,female,2012-01-18
+UGBT-I6-0836,ERS421251,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,NAMIREMBE,132 months,33.91879,East African Shorthorn Zebu,1.01081,female,2012-01-18
+UGBT-I6-0837,ERS421252,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,NAMIREMBE,120 months,33.91879,East African Shorthorn Zebu,1.01081,female,2012-01-18
+UGBT-I7-0011,ERS421255,30523,Bos taurus x Bos indicus,Uganda,TORORO,OSUKURU,60 months,34.12545,East African Shorthorn Zebu,0.59888,female,2011-03-10
+UGBT-I7-0012,ERS421256,30523,Bos taurus x Bos indicus,Uganda,TORORO,OSUKURU,144 months,34.12545,East African Shorthorn Zebu,0.59888,female,2011-03-10
+UGBT-I7-0014,ERS239071,30523,Bos taurus x Bos indicus,Uganda,TORORO,OSUKURU,144 months,34.20359,East African Shorthorn Zebu,0.7337,female,2011-03-10
+UGBT-I7-0015,ERS421258,30523,Bos taurus x Bos indicus,Uganda,TORORO,OSUKURU,72 months,34.20359,East African Shorthorn Zebu,0.7337,female,2011-03-10
+UGBT-I7-0017,ERS421260,30523,Bos taurus x Bos indicus,Uganda,Tororo,kisoko,,34.10406,East African Shorthorn Zebu,0.72644,female,2011-03-10
+UGBT-I7-0019,ERS421262,30523,Bos taurus x Bos indicus,Uganda,TORORO,OSUKURU,108 months,34.10406,East African Shorthorn Zebu,0.72644,female,2011-03-10
+UGBT-J3-0938,ERS421264,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,72 months,34.76317,East African Shorthorn Zebu,2.68912,female,2012-01-28
+UGBT-J3-0939,ERS421265,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,84 months,34.76317,East African Shorthorn Zebu,2.68912,female,2012-01-28
+UGBT-J3-0940,ERS421266,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,72 months,34.76317,East African Shorthorn Zebu,2.68912,female,2012-01-28
+UGBT-J3-0941,ERS421267,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,60 months,34.76317,East African Shorthorn Zebu,2.68912,female,2012-01-28
+UGBT-J3-0944,ERS421270,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,84 months,34.69012,East African Shorthorn Zebu,2.64367,female,2012-01-28
+UGBT-J3-0945,ERS421271,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,84 months,34.69012,East African Shorthorn Zebu,2.64367,female,2012-01-28
+UGBT-J3-0946,ERS421272,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,72 months,34.69012,East African Shorthorn Zebu,2.64367,female,2012-01-28
+UGBT-J3-0947,ERS421273,30523,Bos taurus x Bos indicus,Uganda,MOROTO,RUPA,84 months,34.69012,East African Shorthorn Zebu,2.64367,female,2012-01-28
+UGBT-J4-0898,ERS421274,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,132 months,34.59511,East African Shorthorn Zebu,2.43656,female,2012-01-25
+UGBT-J4-0899,ERS421275,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,120 months,34.59511,East African Shorthorn Zebu,2.43656,female,2012-01-25
+UGBT-J4-0900,ERS421276,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,120 months,34.59511,East African Shorthorn Zebu,2.43656,female,2012-01-25
+UGBT-J4-0902,ERS421278,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,96 months,34.59511,East African Shorthorn Zebu,2.43656,female,2012-01-25
+UGBT-J4-0903,ERS421279,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,108 months,34.61115,East African Shorthorn Zebu,2.35065,female,2012-01-26
+UGBT-J4-0904,ERS421280,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,96 months,34.61115,East African Shorthorn Zebu,2.35065,female,2012-01-26
+UGBT-J4-0905,ERS421281,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,108 months,34.61115,East African Shorthorn Zebu,2.35065,female,2012-01-26
+UGBT-J4-0906,ERS421282,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,72 months,34.61115,East African Shorthorn Zebu,2.35065,female,2012-01-26
+UGBT-J4-0907,ERS421283,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NARISAE,96 months,34.61115,East African Shorthorn Zebu,2.35065,female,2012-01-26
+UGBT-J4-0908,ERS421284,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,84 months,34.72531,East African Shorthorn Zebu,2.06323,female,2012-01-26
+UGBT-J4-0909,ERS421285,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,120 months,34.72531,East African Shorthorn Zebu,2.06323,female,2012-01-26
+UGBT-J4-0910,ERS421286,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,96 months,34.72531,East African Shorthorn Zebu,2.06323,female,2012-01-26
+UGBT-J4-0911,ERS421287,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,120 months,34.72531,East African Shorthorn Zebu,2.06323,female,2012-01-26
+UGBT-J4-0913,ERS421289,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,84 months,34.68632,East African Shorthorn Zebu,2.04746,female,2012-01-26
+UGBT-J4-0914,ERS421290,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,72 months,34.68632,East African Shorthorn Zebu,2.04746,female,2012-01-26
+UGBT-J4-0915,ERS421291,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,96 months,34.68632,East African Shorthorn Zebu,2.04746,female,2012-01-26
+UGBT-J4-0917,ERS421293,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAWEET,96 months,34.68632,East African Shorthorn Zebu,2.04746,female,2012-01-26
+UGBT-J5-0922,ERS239069,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,84 months,34.59608,East African Shorthorn Zebu,1.93608,female,2012-01-27
+UGBT-J5-0925,ERS421300,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,TOKORA,96 months,34.62992,East African Shorthorn Zebu,1.86651,female,2012-01-27
+UGBT-J5-0926,ERS421301,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,TOKORA,72 months,34.62992,East African Shorthorn Zebu,1.86651,female,2012-01-27
+UGBT-J5-0927,ERS421302,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,TOKORA,84 months,34.62992,East African Shorthorn Zebu,1.86651,female,2012-01-27
+UGBT-J5-0928,ERS421303,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,72 months,34.60335,East African Shorthorn Zebu,1.93438,female,2012-01-27
+UGBT-J5-0929,ERS421304,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,60 months,34.60335,East African Shorthorn Zebu,1.93438,female,2012-01-27
+UGBT-J5-0930,ERS421305,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,48 months,34.60335,East African Shorthorn Zebu,1.93438,female,2012-01-27
+UGBT-J5-0931,ERS421306,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,60 months,34.60335,East African Shorthorn Zebu,1.93438,female,2012-01-27
+UGBT-J5-0932,ERS421307,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,84 months,34.60335,East African Shorthorn Zebu,1.93438,female,2012-01-27
+UGBT-J5-0933,ERS421308,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NYATIRAE,96 months,34.61116,East African Shorthorn Zebu,1.75673,female,2012-01-27
+UGBT-J5-0935,ERS421310,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAMALU,84 months,34.61116,East African Shorthorn Zebu,1.75673,female,2012-01-27
+UGBT-J5-0936,ERS421311,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAMALU,60 months,34.61116,East African Shorthorn Zebu,1.75673,female,2012-01-27
+UGBT-J5-0937,ERS421312,30523,Bos taurus x Bos indicus,Uganda,NAKAPIRIPIRITI,NAMALU,84 months,34.61116,East African Shorthorn Zebu,1.75673,female,2012-01-27
+UGBT-H2-0430,ERS239073,30523,Bos taurus x Bos indicus,Uganda,KITGUM,OROM,60 months,33.47214,Shorthorn Zebu,3.39326,female,2011-08-01
+UGBT-H3-0461,ERS421086,30523,Bos taurus x Bos indicus,Uganda,ABIM,ALEREK,36 months,33.73854,Shorthorn Zebu,2.81939,female,2011-08-03
+UGBT-H4-0861,ERS421094,30523,Bos taurus x Bos indicus,Uganda,AMURIA,KAPELABYONG,36 months,33.78317,East African Shorthorn Zebu,2.36653,female,2012-01-24
+UGBT-H5-0642,ERS421126,30523,Bos taurus x Bos indicus,Uganda,KABERAMAIDO,KALAKI,60 months,33.31931,Ankole,1.75568,female,2011-12-23
+UGBT-I4-0896,ERS421211,30523,Bos taurus x Bos indicus,Uganda,NAPAK,IRIRI,132 months,34.19487,East African Shorthorn Zebu,2.51121,female,2012-01-25
+UGBT-I5-0856,ERS421231,30523,Bos taurus x Bos indicus,Uganda,KATAKWI,USUK,120 months,34.00168,East African Shorthorn Zebu,1.53411,female,2012-01-23
+UGBT-I6-0829,ERS421244,30523,Bos taurus x Bos indicus,Uganda,BUDAKA,BUDAKA,72 months,33.95186,East African Shorthorn Zebu,1.01682,female,2012-01-18
+UGBT-I7-0013,ERS421257,30523,Bos taurus x Bos indicus,Uganda,Tororo,Mukuju,,34.20359,East African Shorthorn Zebu,0.7337,female,2011-03-10
+UGBT-D6-0708,ERS420633,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,48 months,31.23101,Small East African Zebu,1.00349,male,2012-01-04
+UGBT-D7-0758,ERS420653,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,48 months,30.98114,Ankole,0.41556,male,2012-01-06
+UGBT-D6-0709,ERS420634,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,96 months,31.23101,Small East African Zebu,1.00349,female,2012-01-04
+UGBT-D6-0710,ERS420635,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,108 months,31.23101,Small East African Zebu,1.00349,male,2012-01-04
+UGBT-D6-0711,ERS420636,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,108 months,31.19887,Small East African Zebu,1.13075,female,2012-01-04
+UGBT-D6-0712,ERS420637,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,84 months,31.19887,Small East African Zebu,1.13075,female,2012-01-04
+UGBT-D6-0713,ERS420638,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,96 months,31.19887,Small East African Zebu,1.13075,female,2012-01-04
+UGBT-D6-0715,ERS420640,30523,Bos taurus x Bos indicus,Uganda,HOIMA,KITOBA,120 months,31.19887,Small East African Zebu,1.13075,female,2012-01-04
+UGBT-D7-0746,ERS420641,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,60 months,31.35435,Ankole,0.55483,female,2012-01-05
+UGBT-D7-0747,ERS420642,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,72 months,31.35435,Shorthorn Zebu,0.55483,female,2012-01-05
+UGBT-D7-0748,ERS420643,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,60 months,31.35435,Ankole,0.55483,female,2012-01-05
+UGBT-D7-0749,ERS420644,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,36 months,31.35435,Ankole,0.55483,female,2012-01-05
+UGBT-D7-0751,ERS420646,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,96 months,31.36136,Shorthorn Zebu,0.55843,female,2012-01-05
+UGBT-D7-0752,ERS420647,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,60 months,31.36136,Ankole,0.55843,female,2012-01-05
+UGBT-D7-0753,ERS420648,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,60 months,31.36136,Ankole,0.55843,female,2012-01-05
+UGBT-D7-0754,ERS420649,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,84 months,31.36136,Ankole,0.55843,female,2012-01-05
+UGBT-D7-0755,ERS420650,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,KASAMBYA,72 months,31.36136,Ankole,0.55843,female,2012-01-05
+UGBT-D7-0756,ERS420651,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,120 months,30.98114,Ankole,0.41556,female,2012-01-06
+UGBT-D7-0757,ERS420652,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,84 months,30.98114,Ankole,0.41556,female,2012-01-06
+UGBT-D7-0760,ERS420655,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,108 months,30.98114,Ankole,0.41556,female,2012-01-06
+UGBT-D7-0761,ERS239078,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,96 months,31.03319,Ankole,0.5978,female,2012-01-06
+UGBT-D7-0762,ERS420656,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,120 months,31.03319,Ankole,0.5978,female,2012-01-06
+UGBT-D7-0763,ERS420657,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,84 months,31.03319,Ankole,0.5978,female,2012-01-06
+UGBT-D7-0764,ERS420658,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,156 months,31.03319,Ankole,0.5978,female,2012-01-06
+UGBT-D7-0765,ERS420659,30523,Bos taurus x Bos indicus,Uganda,MUBENDE,MIANZI,84 months,31.03319,Small East African Zebu,0.5978,female,2012-01-06
+UGBT-D8-0169,ERS420660,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,36 months,30.98911,Ankole,-0.49887,female,2011-06-09
+UGBT-D8-0170,ERS420661,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,120 months,30.98911,Ankole,-0.49887,female,2011-06-09
+UGBT-D8-0171,ERS420662,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,48 months,30.98911,Ankole,-0.49887,female,2011-06-09
+UGBT-D8-0172,ERS420663,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,84 months,30.98911,Ankole,-0.49887,female,2011-06-09
+UGBT-D8-0174,ERS420665,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,84 months,30.98776,Ankole,-0.46784,female,2011-06-09
+UGBT-D8-0175,ERS420666,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,84 months,30.98776,Ankole,-0.46784,female,2011-06-09
+UGBT-D8-0176,ERS420667,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,48 months,30.98776,Ankole,-0.46784,female,2011-06-09
+UGBT-D8-0177,ERS420668,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,60 months,30.91901,Ankole,-0.51708,female,2011-06-09
+UGBT-D8-0178,ERS420669,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,72 months,30.91901,Ankole,-0.51708,female,2011-06-09
+UGBT-D8-0180,ERS420671,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,72 months,30.91901,Ankole,-0.51708,female,2011-06-09
+UGBT-D8-0181,ERS420672,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,96 months,30.92874,Ankole,-0.47496,female,2011-06-09
+UGBT-D8-0182,ERS420673,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,72 months,30.92874,Ankole,-0.47496,female,2011-06-09
+UGBT-D8-0183,ERS420674,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,36 months,30.92874,Ankole,-0.47496,female,2011-06-09
+UGBT-D8-0184,ERS420675,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,72 months,30.92874,Ankole,-0.47496,female,2011-06-09
+UGBT-D8-0185,ERS420676,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,48 months,30.92767,Ankole,-0.47369,female,2011-06-09
+UGBT-D8-0186,ERS420677,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,120 months,30.92767,Ankole,-0.47369,female,2011-06-09
+UGBT-D8-0187,ERS420678,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,72 months,30.92767,Ankole,-0.47369,female,2011-06-09
+UGBT-D8-0188,ERS420679,30523,Bos taurus x Bos indicus,Uganda,MBARARA,KIRUHURA,60 months,30.92767,Ankole,-0.47369,female,2011-06-09
+UGBT-D9-0282,ERS420680,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,84 months,31.05875,Ankole,-0.88909,female,2011-07-01
+UGBT-D9-0284,ERS420682,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,72 months,31.05875,Ankole,-0.88909,female,2011-07-01
+UGBT-D9-0285,ERS420683,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,60 months,31.05875,Ankole,-0.88909,female,2011-07-01
+UGBT-D9-0286,ERS420684,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,84 months,31.0615,Ankole,-0.91268,female,2011-07-01
+UGBT-D9-0287,ERS420685,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,120 months,31.0615,Ankole,-0.91268,female,2011-07-01
+UGBT-D9-0288,ERS420686,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,48 months,31.0615,Ankole,-0.91268,female,2011-07-01
+UGBT-D9-0289,ERS420687,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,84 months,31.0615,Ankole,-0.91268,female,2011-07-01
+UGBT-D9-0290,ERS420688,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,96 months,31.07953,Ankole,-0.94345,female,2011-07-01
+UGBT-D9-0291,ERS420689,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,84 months,31.07953,Ankole,-0.94345,female,2011-07-01
+UGBT-D9-0292,ERS239074,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,96 months,31.07953,Ankole,-0.94345,female,2011-07-01
+UGBT-D9-0293,ERS420690,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,84 months,31.07953,Ankole,-0.94345,female,2011-07-01
+UGBT-D9-0294,ERS420691,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,96 months,31.10024,Ankole,-0.97831,female,2011-07-01
+UGBT-D9-0295,ERS420692,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,84 months,31.10024,Ankole,-0.97831,female,2011-07-01
+UGBT-D9-0296,ERS420693,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,60 months,31.10024,Ankole,-0.97831,female,2011-07-01
+UGBT-D9-0297,ERS420694,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,96 months,31.10024,Ankole,-0.97831,female,2011-07-01
+UGBT-D9-0299,ERS420696,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,48 months,31.12443,Ankole,-0.97985,female,2011-07-01
+UGBT-D9-0300,ERS420697,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,96 months,31.12443,Ankole,-0.97985,female,2011-07-01
+UGBT-D9-0301,ERS420698,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,48 months,31.12443,Ankole,-0.97985,female,2011-07-01
+UGBT-D9-0302,ERS420699,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,108 months,31.03817,Ankole,-0.92139,female,2011-07-01
+UGBT-D9-0303,ERS420700,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,96 months,31.03817,Ankole,-0.92139,female,2011-07-01
+UGBT-D9-0304,ERS420701,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,MBAARE,96 months,31.03817,Ankole,-0.92139,female,2011-07-01
+UGBT-D9-0305,ERS420702,30523,Bos taurus x Bos indicus,Uganda,ISINGIRO,RUGAAGA,84 months,31.03817,Ankole,-0.92139,female,2011-07-01
+UGBT-E2-0326,ERS420703,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,96 months,31.97253,Shorthorn Zebu,3.39225,female,2011-07-12
+UGBT-E2-0327,ERS420704,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,120 months,31.97253,Shorthorn Zebu,3.39225,female,2011-07-12
+UGBT-E2-0329,ERS420706,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,84 months,31.97253,Shorthorn Zebu,3.39225,female,2011-07-12
+UGBT-E2-0330,ERS420707,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,120 months,31.95121,Shorthorn Zebu,3.38618,female,2011-07-12
+UGBT-E2-0331,ERS420708,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,60 months,31.95121,Shorthorn Zebu,3.38618,female,2011-07-12
+UGBT-E2-0332,ERS420709,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,24 months,31.95121,Shorthorn Zebu,3.38618,female,2011-07-12
+UGBT-E2-0333,ERS420710,30523,Bos taurus x Bos indicus,Uganda,ADJUMANI,DZAIPI,96 months,31.95121,Shorthorn Zebu,3.38618,female,2011-07-12

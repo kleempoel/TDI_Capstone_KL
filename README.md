@@ -24,4 +24,4 @@ The project is described [here](Explanation.ipynb)
 
 
 ## Data
-- Datasets for human simulations and Ugandan Cattle can be found in `Data/` and `UGBT/` respectively
+- Datasets for human simulations and Ugandan Cattle can be found in `Data_Sim/` and `Data_UGBT/` respectively

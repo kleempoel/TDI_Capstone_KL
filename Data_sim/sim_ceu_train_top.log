@@ -1,0 +1,26 @@
+PLINK v1.90b6.14 64-bit (7 Jan 2020)
+Options in effect:
+  --bfile sim_ceu_train
+  --extract topSNPs.txt
+  --make-bed
+  --out sim_ceu_train_top
+
+Hostname: BIO-PF1PCTFZ
+Working directory: C:\Data\The Data Incubator\pop_gen\plink_sim
+Start time: Mon Feb 24 14:48:28 2020
+
+Random number seed: 1582584508
+16218 MB RAM detected; reserving 8109 MB for main workspace.
+496966 variants loaded from .bim file.
+2800 people (0 males, 2800 females) loaded from .fam.
+2800 phenotype values loaded from .fam.
+--extract: 25002 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2800 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+25002 variants and 2800 people pass filters and QC.
+Among remaining phenotypes, 1385 are cases and 1415 are controls.
+--make-bed to sim_ceu_train_top.bed + sim_ceu_train_top.bim +
+sim_ceu_train_top.fam ... done.
+
+End time: Mon Feb 24 14:48:31 2020
