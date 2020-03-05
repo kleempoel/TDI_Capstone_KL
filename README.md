@@ -13,11 +13,15 @@ The project uses Machine Learning to predict
 - 1. The Predisposition to genetic diseases in humans using a simulated dataset
 - 2. Local adaptation of livestock using Cattle genetic data from Uganda
 
-The project is described in detail [here](Explanation.ipynb)
+The project is described [here](Explanation.ipynb)
 
 
 ## Scripts
-- Scripts can be found in `Scripts/` or directly through the [Project Description page](https://github.com/kleempoel/TDI_Milestone_KL/Explanation.html).
+- Analysis of [simulated human data](Scripts/RandomForest_HumanSimulation.ipynb)
+- Analysis of [Ugandan Cattle](Scripts/UGBT.ipynb)
+- Other scripts can be found in `Scripts/` or directly through the [Project Description page](Explanation.ipynb)
+
+
 
 ## Data
 - Datasets for human simulations and Ugandan Cattle can be found in `Data/` and `UGBT/` respectively
