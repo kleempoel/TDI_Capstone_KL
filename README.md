@@ -1,7 +1,7 @@
 # Data science applications in Health Genomics
 ## Kevin Leempoel - TDI Capstone Project
 
-As for now, machine learning and big data processing remains largely unexplored in health genomics and precision medicine.
+Machine learning and big data processing remains largely unexplored in health genomics and precision medicine.
 But recent studies have demonstrated than machine learning applied to large clinical trials enables researchers and clinicians to create more accurate patient profiles, resulting in an improved diagnosis and treatments of  diseases.
 
 For my capstone project, I aimed to evaluate the relevance of data science tools in Health Genomics and publish my findings,  scripts and interactive visualization tools. 
