@@ -27,3 +27,8 @@ A summary of the project and its deliverables can be found [here](Explanation.ip
 
 
 ## Future improvements
+- Compare current results with [variant spark](https://github.com/aehrc/VariantSpark), a fast and scalable Random Forest Classifier.
+- Compare current results with a Deep learning approaches. [For example](https://www.mdpi.com/2073-4425/10/7/553/pdf)
+- Interactive manhattan plots and maps of global distribution.
+
+
